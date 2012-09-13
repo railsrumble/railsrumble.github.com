@@ -1,0 +1,38 @@
+---
+layout: post
+title: 2010 Contest Sponsors v1.0
+---
+Ask and ye shall receive. In case you didn't see the
+[tweets](http://twitter.com/railsrumble), I wanted to call a little attention
+to our first batch of 2010 contest sponsors. A big thanks to our old friends
+at [Thoughtbot](http://thoughtbot.com), [Intridea](http://intridea.com), and
+[BDDCasts](http://bddcasts.com) for supporting us again this year, and to our
+new friends at [Tropo](http://tropo.com), [Koombea](http://koombea.com), [The
+Frontier Group](http://thefrontiergroup.com.au),
+[Juicer](http://uploadjuicer.com), [Mogotest](http://mogotest.com),
+[Screencasts.org](http://screencasts.org), and
+[StickerMule](http://stickermule.com). Please take a few minutes and check out
+our [sponsors page](/sponsors) to read about the great products and services
+offered by these folks, many of which will be available as contest prizes or
+special promotions to all entrants.
+
+<img src="/images/2010/8/thank-you.gif" style="float: right; margin: 0 0 10px 10px"/>
+
+Of course, extra not-so-sekrit special thanks goes to
+[Linode](http://linode.com) and [GitHub](http://github.com) who are supporting
+the Rumble yet again as infrastructure partners. We really (seriously! no
+kidding!) couldn't do it without these guys. Did I mention that they've
+allowing us to expand to offer 300 team spots this year? Yessir.
+
+Finally, I'd also like to thank Rob Dempsey over at
+[ActsAsConference](http://actsasconference.com), who is offering a special
+promotion rate for RailsRumble enthusiasts; you can register using the code
+"railsrumble" and receive $75 off. Is very good deal.
+
+We've got a few more sponsor deals in the works, and some really exciting
+exhibition matches that we'll be announcing soon. As of right now, all the
+heavyweight spots are officially spoken for. However, we still have
+sponsorship opportunities avaialble at the middleweight and lightweight
+levels, and we'd love to have you on board for the ride. So if you're
+interested in sponsorship, or have an exhibition match to propose, make sure
+to [reach out to us](mailto:organizers@railsrumble.com).

@@ -1,0 +1,22 @@
+---
+layout: post
+title: 24 Hours To Go
+---
+
+<img src="/images/2010/10/24.jpg" style="margin: 0 0 10px 10px; float: right;"/>
+
+Just a quick reminder: <strong>voting ends tomorrow night at midnight GMT (8:00PM
+EST)</strong>. That's just a little more than 24 hours from now! Thanks to everyone
+who's shown up to vote and helped us spread the word. The top scoring apps are
+all pretty close together at the moment, and there's still plenty of time for
+shakeups to happen.
+
+So if you haven't already,
+<a href="http://railsrumble.com">check out the current leaderboard</a> and
+<a href="http://railsrumble.com/login">sign up for an account</a> so you can
+judge some entries. We're really looking forward to seeing who your favorites
+are.
+
+PS we just got a real nice article over at
+<a href="http://tcrn.ch/96ilW2">TechCrunch</a> highlighting some of their
+favorite apps. Sweet.

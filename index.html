@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% for post in site.posts limit:3 %}
+  <article>
+    <header>
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <date pubdate="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %d, %Y" }}</date>
+    </header>
+
+    <div class="body">
+      {{ post.content }}
+
+      <p>
+        <a href="http://blog.railsrumble.com{{ post.url }}#disqus_thread">Comments</a>
+      </p>
+    </div>
+  </article>
+{% endfor %}
+
+<div>
+  Looking for older posts? Why not <a href="/archives">browse the archive</a>?
+</div>
+
+<script type="text/javascript">
+  var disqus_shortname = 'rumbleblog';
+
+  (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>

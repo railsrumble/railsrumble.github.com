@@ -1,0 +1,27 @@
+---
+layout: post
+title: It's Over
+---
+
+Public voting wrapped up a few minutes ago and we've got our winners:
+
+  1. **Indiana Coders** for <a href="http://beercheck.in">Beer Checkin</a>
+  2. **Platform45**     for <a href="http://omecash.r10.railsrumble.com/">Owe Me Cash</a>
+  3. **Nuby on Rails**  for <a href="http://choonsfm.r10.railsrumble.com/">Choons.fm</a>
+
+  Solo Division Winner:
+
+  - **My Other Car Is Your Face** for <a href="http://tldr.it">tldr.it</a>
+
+  Category Winners:
+
+  - For Appearance:   **Agile Nomads**    for <a href="http://www.commendablekids.com/">Commendable Kids</a>
+  - For Completeness: **Black and White** for <a href="http://govsgo.r10.railsrumble.com/">Go vs Go</a>
+  - For Innovation:   **acts_as_ninjas**  for <a href="http://warsquare.r10.railsrumble.com/">Warsquare</a>
+  - For Usefulness:   **The Dudes**       for <a href="http://fontstacks.r10.railsrumble.com/">Awesome Fontstacks</a>
+
+Congratulations to the teams who placed this year, and to everyone who participated. Ultimately the real winners are those that take advantage of the Rumble launch boost and continue to enhance their applications over the coming weeks and months. Please drop us a line if you've got interesting news, we're looking forward to seeing what happens now that the contest is over and the codefreeze is lifted.
+
+Over the next couple days we'll also be announcing the results of the <a href="http://blog.railsrumble.com/challenges">sponsor challenges</a>, so stay tuned to the <a href="http://blog.railsrumble.com/">blog</a> for more details.
+
+Before we go we'd like to thank all our <a href="http://blog.railsrumble.com/sponsors">awesome event sponsors</a>, infrastructure partners <a href="http://linode.com/">Linode</a> and <a href="http://github.com">GitHub</a>, and our <a href="http://blog.railsrumble.com/expert-panel">expert panelists</a>. We couldn't have done this without you!

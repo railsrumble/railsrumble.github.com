@@ -1,0 +1,25 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rails Rumble</title>
+  <link href="http://blog.railsrumble.com/atom.xml" rel="self"/>
+  <link href="http://blog.railsrumble.com/"/>
+  <updated>{{site.time | date_to_xmlschema }}</updated>
+  <id>http://blog.railsrumble.com</id>
+  <author>
+    <name>Rails Rumble</name>
+  </author>
+
+  {% for post in site.posts limit: 25 %}
+    <entry>
+      <title>{{ post.title }}</title>
+      <link href="http://blog.railsrumble.com{{ post.id }}"/>
+      <updated>{{post.date | date_to_xmlschema }}</updated>
+      <id>http://blog.railsrumble.com{{ post.id }}</id>
+      <content type="html">{{ post.content | xml_escape }}</content>
+    </entry>
+  {% endfor %}
+</feed>
