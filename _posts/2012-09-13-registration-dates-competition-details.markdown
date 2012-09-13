@@ -14,7 +14,7 @@ Our brand new design, courtesy of the awesome [Zach Inglis](https://twitter.com/
 
 ## Sign In With GitHub
 
-To compete you'll be required to sign in with [GitHub](http://github.com) this year. You can put away your tinfoil hat though, we'll only be asking for read access to your public profile. If someone on your team doesn't already have a GitHub account, they should <del>question their life decisions</del> sign up for a free one [here](https://github.com/signup/free), before registration opens.
+To compete, you'll be required to sign in with [GitHub](http://github.com). You can put away your tinfoil hat though, we'll only be asking for read access to your public profile. If someone on your team doesn't already have a GitHub account, they should <del>question their life decisions</del> sign up for a free one [here](https://github.com/signup/free), before registration opens.
 
 ## Totally Revamped Judging
 
