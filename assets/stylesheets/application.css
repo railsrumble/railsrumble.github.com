@@ -126,6 +126,12 @@ h1 {
   font-size: 3rem;
   line-height: 3.4rem; }
 
+p + h2 {
+  padding-top: 20px; padding-top: 2rem; }
+
+p + h3 {
+  padding-top: 20px; padding-top: 2rem; }
+
 date {
   color: #4f4f4f; }
 
