@@ -401,6 +401,17 @@ article header {
     font-size: 2.1rem; }
 
 
+h1#not-found {
+  color: #4F4F4F;
+  font-size: 72px;
+  font-size: 7.2rem;
+  line-height: 128px;
+  line-height: 12.8rem;
+  margin: 50px 0 200px 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 #top {
   text-transform: uppercase;
   font-weight: normal;
