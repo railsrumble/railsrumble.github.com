@@ -6,7 +6,7 @@ layout: default
 
 ### What is the Rails Rumble?
 
-It's a programming competition where teams of up to 4 people will have 48 hours to build an innovative web application, with Ruby on Rails or another Rack-based Ruby web framework. After the 48 hours are over (and a brief interim to review submissions), a panel of expert judges will each pick his or her 10 favorite entries. All of the expert judge picks will be combined to find the 10 overall winners, ranked 1 through 10. In additional, voting will be opened to the public for a special, separate, Public Favorite award.
+The Rails Rumble is a programming competition where teams of up to 4 people will have 48 hours to build an innovative web application, with Ruby on Rails or another Rack-based Ruby web framework. After the 48 hours are over (and a brief interim to review submissions), a panel of expert judges will each pick his or her 10 favorite entries. All of the expert picks will be combined to find the top **10 Overall Winners**, ranked 1 through 10. In addition, voting will be opened to the public for a special, separate, **Public Favorite** award.
 
 ### Are there official rules I can read?
 
@@ -14,15 +14,15 @@ Yes, there are! You can read the [official contest rules here](/rules).
 
 ### How are entries judged?
 
-We ask our expert judges to consider a number of aspects, including: originality, usefulness, appearance, and completeness. However, these categories are not individually rated. Rather, expert judges will consider these aspects when coming up with a list of their 10 favorite entries. Experts will then rank their favorites from 1 through 10 and all expert rankings will be combined to come up with the top 10 overall winners.
+We ask our expert judges to consider a number of aspects, including: originality, usefulness, appearance, and completeness. However, these categories are not individually rated. Rather, expert judges will consider these aspects when coming up with a list of their 10 favorite entries. Experts will then rank their favorites from 1 through 10 and all expert rankings will be combined to come up with the top **10 Overall Winners**.
 
 ### How many winners are there?
 
-There are 10 overall winners, ranked 1 through 10, picked by our expert judges. Additionally, we'll be awarding a separate "Solo" award for the best solo entry, according to our expert judges, and a separate "Public Favorite" award for the most voted-by-the-public entry. Because the Solo and Public Favorite awards are separate, you can win one of the overall spots in addition to one of the special awards.
+There are **10 Overall Winners**, ranked 1 through 10, picked by our expert judges. Additionally, we'll be awarding a separate **Best Solo** award for the best solo entry, according to our expert judges, and a separate **Public Favorite** award for the most voted-by-the-public entry. Because the **Best Solo** and **Public Favorite** awards are separate, you can win one of the overall spots in addition to one of the special awards.
 
 ### When does the competition start?
 
-The 2012 Rails Rumble will begin Saturday, October 13th at 12:00am UTC (midnight) and continue for the next 48 hours, until Sunday, October 14th at 11:59pm UTC.
+The 2012 Rails Rumble will begin Saturday, October 13th at 00:00:00 UTC (midnight) and continue for the next 48 hours, until Sunday, October 14th at 23:59:59 UTC.
 
 ### When does registration open?
 
