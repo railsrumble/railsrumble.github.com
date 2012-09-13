@@ -105,6 +105,182 @@
 }
 
 
+/* Base button style from Bootstrap: http://twitter.github.com/bootstrap */
+
+.btn {
+  display: inline-block;
+  *display: inline;
+  padding: 4px 14px;
+  margin-bottom: 0;
+  *margin-left: .3em;
+  font-size: 14px;
+  line-height: 20px;
+  *line-height: 20px;
+  color: #202020;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  text-transform: uppercase;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  *background-color: #e6e6e6;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-repeat: repeat-x;
+  border: 1px solid #bbbbbb;
+  *border: 0;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-bottom-color: #a2a2a2;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn:hover,
+.btn:active,
+.btn.active,
+.btn.disabled,
+.btn[disabled] {
+  color: #202020;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+}
+
+.btn:active,
+.btn.active {
+  background-color: #cccccc \9;
+}
+
+.btn:first-child {
+  *margin-left: 0;
+}
+
+.btn:hover {
+  color: #202020;
+  text-decoration: none;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+  /* Buttons in IE7 don't get borders, so darken on hover */
+
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+     -moz-transition: background-position 0.1s linear;
+       -o-transition: background-position 0.1s linear;
+          transition: background-position 0.1s linear;
+}
+
+.btn:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+.btn.active,
+.btn:active {
+  background-color: #e6e6e6;
+  background-color: #d9d9d9 \9;
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn.disabled,
+.btn[disabled] {
+  cursor: default;
+  background-color: #e6e6e6;
+  background-image: none;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+          box-shadow: none;
+}
+
+.btn-large {
+  padding: 9px 14px;
+  font-size: 16px;
+  line-height: normal;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}
+
+.btn-large [class^="icon-"] {
+  margin-top: 2px;
+}
+
+.btn-small {
+  padding: 3px 9px;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.btn-small [class^="icon-"] {
+  margin-top: 0;
+}
+
+.btn-mini {
+  padding: 2px 6px;
+  font-size: 11px;
+  line-height: 17px;
+}
+
+.btn-highlight.active {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.btn {
+  border-color: #c5c5c5;
+  border-color: rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+}
+
+.btn-highlight {
+  color: #202020;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #DFDF00;
+  *background-color: #DFDF00;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFFAA), to(#DFDF00));
+  background-image: -webkit-linear-gradient(top, #FFFFAA, #DFDF00);
+  background-image: -o-linear-gradient(top, #FFFFAA, #DFDF00);
+  background-image: linear-gradient(to bottom, #FFFFAA, #DFDF00);
+  background-image: -moz-linear-gradient(top, #FFFFAA, #DFDF00);
+  background-repeat: repeat-x;
+  border-color: #DFDF00 #DFDF00 #FFFFAA;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#FFFFAA', endColorstr='#DFDF00', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-highlight:hover,
+.btn-highlight:active,
+.btn-highlight.active,
+.btn-highlight.disabled,
+.btn-highlight[disabled] {
+  color: #202020;
+  background-color: #DFDF00;
+  *background-color: #DFDF00;
+}
+
+.btn-highlight:active,
+.btn-highlight.active {
+  background-color: #c67605 \9;
+}
+
+
+/* Custom CSS, Copyright 2012 Rails Rumble */
+
 .clearfix:before, .clearfix:after {
   content: " ";
   display: table; }
@@ -231,12 +407,12 @@ article header {
   font-size: 12px;
   font-size: 1.2rem;
   margin-top: 20px;
-  text-align: center;
+  text-align: right;
 }
 
 #top span {
   display: inline-block;
-  margin: 0 15px;
+  margin: 0 0 0 15px;
   white-space: nowrap;
   width: 213px;
 }
@@ -278,6 +454,38 @@ article {
 article .body .footnotes {
   font-size: 12px;
   font-size: 1.2rem;
+}
+
+#sidebar #mc_embed_signup h1 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  margin-bottom: 0;
+}
+
+#sidebar #mc_embed_signup p {
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  line-height: 2.2rem;
+  margin: 10px 0;
+}
+
+#sidebar #mc_embed_signup input.email {
+  border: 1px solid #ffffff;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  display: inline-block;
+  *display: inline;
+  padding: 4px;
+  margin-bottom: 0;
+  *margin-left: .3em;
+  font-size: 12px;
+  line-height: 16px;
+  *line-height: 16px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  width: 105px;
 }
 
 #footer {
