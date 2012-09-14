@@ -202,7 +202,7 @@ If at any time you would like to be removed from the email list or have your acc
 
 ### Winners List
 
-For a list of the winners, please visit railsrumble.com. Such list will be available after October 19rd, 2010.
+For a list of the winners, please visit railsrumble.com. Such list will be available after October 19th, 2012.
 
 ### Administrator
 
