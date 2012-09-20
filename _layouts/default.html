@@ -9,7 +9,7 @@
 
   <title>Rails Rumble{% if page.title != nil %} - {{ page.title }}{% endif %}</title>
 
-  <link href="/assets/images/favicon.png" rel="icon" type="image/png"/>
+  <link href="/assets/images/rr-favicon.png" rel="icon" type="image/png"/>
 
   <link href="/assets/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" />
   <link href="/assets/stylesheets/720.css" media="screen and (min-width: 768px)" rel="stylesheet" type="text/css" />
@@ -41,10 +41,9 @@
   <header id="header" class="clearfix">
     <div class="wrapper">
       <div class="t1 da1-da2">
-        <h1>
-          <a href="/">Rails Rumble</a>
-          <span class="year">2012</span>
-        </h1>
+        <a href="/" title="Rails Rumble">
+          <img src="/assets/images/rr-logo-small.png"/>
+        </a>
       </div>
 
       <nav class="t2-t5 da3-da6">
@@ -85,6 +84,22 @@
             <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required/>
             <input type="submit" value="Remind Me" name="subscribe" class="btn btn-highlight btn-small"/>
           </form>
+        </div>
+
+        <div id="sponsors">
+          <h1>2012 Rumble Sponsors</h1>
+
+          <div>
+            <a href="http://linode.com" target="_blank">
+              <img src="/images/sponsors/2012/linode.png">
+            </a>
+          </div>
+
+          <div>
+            <a href="http://github.com" target="_blank">
+              <img src="/images/sponsors/2012/github.png">
+            </a>
+          </div>
         </div>
       </article>
     </section>

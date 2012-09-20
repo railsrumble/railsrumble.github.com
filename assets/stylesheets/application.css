@@ -436,18 +436,15 @@ h1#not-found {
 
 #header {
   margin-top: 20px;
+  padding-top: 25px;
+  padding-top: 2.5rem;
+  padding-bottom: 15px;
+  padding-bottom: 1.5rem;
 }
 
-#header h1 {
-  width: 155px;
-}
-
-#header h1 a {
-  color: white;
-}
-
-#header h1 a:hover {
-  text-decoration: none;
+#header nav {
+  margin-top: 15px;
+  margin-top: 1.5rem;
 }
 
 #header nav a {
@@ -497,6 +494,14 @@ article .body .footnotes {
   text-transform: uppercase;
   vertical-align: middle;
   width: 105px;
+}
+
+#sidebar #sponsors {
+  margin-top: 40px;
+}
+
+#sidebar #sponsors div {
+  text-align: center;
 }
 
 #footer {
