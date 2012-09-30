@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# About
+
+To read more about the Rails Rumble and see a number of frequent questions, [check here](/about).
+
 # Contest Rules
 
 What follows is a quick summary of the rules. Before entering, you'll be asked to accept the full, official rules, which you can read below. If you have any questions, please feel free to email the [organizers](mailto:organizers@railsrumble.com).
