@@ -270,6 +270,10 @@ body {
   margin: 0;
   padding: 0; }
 
+#top, #header, #content, #footer {
+  padding: 0 10px;
+}
+
 .wrapper {
   width: 998px;
   margin: 0 auto; }
