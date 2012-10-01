@@ -66,4 +66,4 @@ Although most changes are likely to be minor, Rails Rumble may change its Privac
 
 ### Questions
 
-If you have question about this Privacy Policy, please contact us at <a href="mailto:organizers@railsrumble.com">organizers@railsrumble.com</a>.
+If you have question about this Privacy Policy, please <a href="http://railsrumble.com/contact">contact us</a>.

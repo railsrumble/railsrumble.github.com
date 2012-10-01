@@ -22,7 +22,7 @@ You must read through the entire Terms of Service below and agree with all the d
 
 This document is an adaptation of the [Heroku Terms of Service](http://legal.heroku.com/tos) which itself is derivative of the [Google App Engine Terms of Service](http://code.google.com/appengine/terms.html). The original work has been modified with permission under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/). Neither Heroku, Inc. nor Google, Inc. is connected with, sponsors, or endorses Rails Rumble or its use of the work.
 
-You're welcome to adapt and use this document for your own needs.  If you make an improvement, we'd appreciate it if you would [let us know](mailto:organizers@railsrumble.com) so we can consider improving our own document.
+You're welcome to adapt and use this document for your own needs.  If you make an improvement, we'd appreciate it if you would [let us know](http://railsrumble.com/contact) so we can consider improving our own document.
 
 ### Your Agreement with Rails Rumble and Cloud Warmer, Inc.
 
@@ -36,7 +36,7 @@ In order to use the Service, you (the "Customer", "You", or "Your") must first a
 
 Rails Rumble may make changes to the Terms from time to time. You may reject the changes by terminating your account. You understand and agree that if you use the Service after the date on which the Terms have changed, Rails Rumble will treat your use as acceptance of the updated Terms.
 
-If you have any question about the Terms, please contact us at [organizers@railsrumble.com](mailto:organizers@railsrumble.com).
+If you have any question about the Terms, please [contact us](http://railsrumble.com/contact).
 
 ### Your Account
 

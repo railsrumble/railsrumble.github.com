@@ -8,7 +8,7 @@ To read more about the Rails Rumble and see a number of frequent questions, [che
 
 # Contest Rules
 
-What follows is a quick summary of the rules. Before entering, you'll be asked to accept the full, official rules, which you can read below. If you have any questions, please feel free to email the [organizers](mailto:organizers@railsrumble.com).
+What follows is a quick summary of the rules. Before entering, you'll be asked to accept the full, official rules, which you can read below. If you have any questions, please feel free to email the [organizers](http://railsrumble.com/contact).
 
 1. **Ruby on Rails**
 
@@ -48,7 +48,7 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
     Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
 
-    If you have a question about a particular piece of third party software, please contact competition organizers for clarification at [organizers@railsrumble.com](mailto:organizers@railsrumble.com).
+    If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
 
 7. **Ownership & Open Source**
 
@@ -98,7 +98,7 @@ All information must be complete and accurate to be eligible. Personal informati
 
 ### Ruby on Rails
 
-All applications must be built using [Ruby on Rails](http://rubyonrails.org) or other [Rack](http://rack.rubyforge.org)-based Ruby web frameworks. No substitutes! If in doubt about whether your chosen framework qualifies, feel free to contact us and ask at [organizers@railsrumble.com](mailto:organizers@railsrumble.com).
+All applications must be built using [Ruby on Rails](http://rubyonrails.org) or other [Rack](http://rack.rubyforge.org)-based Ruby web frameworks. No substitutes! If in doubt about whether your chosen framework qualifies, feel free to [contact us](http://railsrumble.com/contact).
 
 ### 48 Hours
 
@@ -134,7 +134,7 @@ Stock photography, icon sets, and publicly available templates are allowed. Team
 
 Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
 
-If you have a question about a particular piece of third party software, please contact competition organizers for clarification at [organizers@railsrumble.com](mailto:organizers@railsrumble.com).
+If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
 
 ### Ownership and Open Source
 

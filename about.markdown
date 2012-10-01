@@ -66,7 +66,7 @@ So long as the plugin is publicly available and does not provide the majority of
 
 ### What am I allowed to do to prepare for the competition?
 
-You're free to plan and design the requirements for your application. You're also free to work on paper and/or digital UI mockups. You are not allowed to produce any production digital assets or any test or application code prior to the start of the competition. If you have questions, feel free to contact the [organizers](mailto:organizers@railsrumble.com).
+You're free to plan and design the requirements for your application. You're also free to work on paper and/or digital UI mockups. You are not allowed to produce any production digital assets or any test or application code prior to the start of the competition. If you have questions, feel free to contact the [organizers](http://railsrumble.com/contact).
 
 ### When will I have access to the code repository and the VPS?
 
@@ -106,8 +106,8 @@ You can also [follow @railsrumble on Twitter](http://twitter.com/railsrumble) or
 
 ### My company or organization would like to sponsor the event. How can I do that?
 
-Contact the contest [organizers](mailto:organizers@railsrumble.com). They'll hook you up, so you can hook us up.
+Contact the contest [organizers](http://railsrumble.com/contact). They'll hook you up, so you can hook us up.
 
 ### Who should I contact about media relations or for general inquiries?
 
-Contact [info@railsrumble.com](mailto:info@railsrumble.com) and we'll get back to you as soon as possible.
+[Contact us](http://railsrumble.com/contact) and we'll get back to you as soon as possible.
