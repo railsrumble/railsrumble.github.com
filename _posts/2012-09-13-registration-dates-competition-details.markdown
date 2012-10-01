@@ -38,7 +38,7 @@ You'll be joining the ranks of our already confirmed sponsors, including:
 * [GitHub](http://github.com)
 * [Sprint.ly](http://sprint.ly)
 * [Pragmatic Programmers](http://pragprog.com)
-* [Railscasts](http://railscasts.com)
+* [RailsCasts](http://railscasts.com)
 * [O'Reilly](http://oreilly.com)
 * [Prefinery](http://prefinery.com)
 * [Code School](http://codeschool.com)
