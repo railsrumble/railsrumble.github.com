@@ -3,7 +3,7 @@ layout: post
 title: Registration Has Opened!
 ---
 
-The Rails Rumble is a programming competition where teams of one to four people have 48 hours to build an innovative web application, with Ruby on Rails or another Rack-based Ruby web framework. After the 48 hours are over (and a brief interim to review entries), a panel of expert judges will pick the top ten winners.
+The Rails Rumble is a distributed programming competition where teams of one to four people, from all over the world, have 48 hours to build an innovative web application, with Ruby on Rails or another Rack-based Ruby web framework. After the 48 hours are up, a panel of expert judges will pick the top ten winners.
 
 As many of you have already noticed, registration for the 2012 Rails Rumble is now open! To reserve a spot for your team, simply [head over to railsrumble.com](http://railsrumble.com) and sign in with GitHub. After signing in, you'll be able to register a team, thus reserving a spot in the most action packed weekend of programming since... the last Rails Rumble! And after reserving a spot, you'll be able to invite up to three others to join you on your team.
 

@@ -6,7 +6,7 @@ layout: default
 
 ### What is the Rails Rumble?
 
-The Rails Rumble is a programming competition where teams of up to 4 people will have 48 hours to build an innovative web application, with Ruby on Rails or another Rack-based Ruby web framework. After the 48 hours are over (and a brief interim to review submissions), a panel of expert judges will each pick his or her 10 favorite entries. All of the expert picks will be combined to find the top **10 Overall Winners**, ranked 1 through 10. In addition, voting will be opened to the public for a special, separate, **Public Favorite** award.
+The Rails Rumble is a distributed programming competition where teams of up to 4 people, from all over the world, will have 48 hours to build an innovative web application with Ruby on Rails, or another Rack-based Ruby web framework. After the 48 hours are over (and a brief interim to review submissions), a panel of expert judges will each pick his or her 10 favorite entries. All of the expert picks will be combined to find the top **10 Overall Winners**, ranked 1 through 10. In addition, voting will be opened to the public for a special, separate, **Public Favorite** award.
 
 ### Are there official rules I can read?
 
