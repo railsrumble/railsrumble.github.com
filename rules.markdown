@@ -32,13 +32,13 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
     Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process. Don't plan on doing anything tricky like developing your application in its entirety ahead of time, rebasing it and pushing it in at 9AM Saturday morning and relaxing with a Mimosa. That's bad.
 
-    Before the contest ends, you must mark your entry as complete on the team profile and tag a release of your code with the word "rumble12". This should be the version deployed on your VPS and will be validated by our automated qualifier system.
+    Before the contest ends, you must mark your entry as complete on the team profile and tag a release of your code with the word "rumble12". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
 
 5. **Deployment at Linode**
 
-    A big part of running a successful web application is knowing how to deploy and maintain it. Thanks to the participation of our sponsors, every team gets their own private [Linode](http://linode.com) VPS to use in deploying their applications. This VPS account information will be provided to you via your Rails Rumble account prior to the Contest Timeframe You understand that you are responsible for configuration and maintenance of this account during the competition timeframe. However, we'll have help available should you need it.
+    A big part of running a successful web application is knowing how to deploy and maintain it. Thanks to the participation of our sponsors, every team gets their own [Linode](http://linode.com) virtual server to use in deploying their applications. This account information will be provided to you via your Rails Rumble account prior to the Contest Timeframe. You understand that you are responsible for configuration and maintenance of this account during the competition timeframe. However, we'll have help available should you need it.
 
-    Competition organizers will also require access to your VPS during the judging period via supplied SSH keys. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure you haven't introduced additional features or bugfixes during the judging period. You may access your VPS during the judging period to restart a stuck process or perform routine maintenance, however.
+    Competition organizers will also require access to your Linode account during the judging period via supplied SSH keys. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure you haven't introduced additional features or bugfixes during the judging period. You may access your Linode account during the judging period to restart a stuck process or perform routine maintenance, however.
 
 6. **Leverage Others**
 
@@ -116,15 +116,15 @@ We'll provide your team with a free private Git repository courtesy of [GitHub](
 
 Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process.
 
-Prior to the conclusion of the Contest Timeframe, 11:59PM / 23:59 UTC on October 14th, 2010, you must mark your entry as complete on your team profile page and tag a release of your code with the word "rumble12". This should be the version deployed on your VPS and will be validated by our automated qualifier system.
+Prior to the conclusion of the Contest Timeframe, 11:59PM / 23:59 UTC on October 14th, 2010, you must mark your entry as complete on your team profile page and tag a release of your code with the word "rumble12". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
 
 ### Deployment
 
-A big part of running a successful web application is knowing how to deploy and maintain it. Thanks to the participation of our sponsors, every team gets their own private [Linode](http://linode.com) VPS to use in deploying their applications. This VPS account information will be provided to you via your Rails Rumble account prior to the Contest Timeframe You understand that you are responsible for configuration and maintenance of this account during the competition timeframe. However, we'll have help available should you need it.
+A big part of running a successful web application is knowing how to deploy and maintain it. Thanks to the participation of our sponsors, every team gets their own [Linode](http://linode.com) virtual server to use in deploying their applications. This account information will be provided to you via your Rails Rumble account prior to the Contest Timeframe You understand that you are responsible for configuration and maintenance of this account during the competition timeframe. However, we'll have help available should you need it.
 
-Teams will be judged on the overall user experience. If an application crashes or is generally unresponsive, peer reviewers are likely to give an unpleasant score. It is the responsibility of the team to ensure that they develop and deploy a robust entry. Access information for your VPS will be provided with source control information before the competition begins. VPS-hosted applications will remain online and hosted until the winners are announced – shortly after voting closes.
+Teams will be judged on the overall user experience. If an application crashes or is generally unresponsive, peer reviewers are likely to give an unpleasant score. It is the responsibility of the team to ensure that they develop and deploy a robust entry. Access information for your Linode will be provided with source control information before the competition begins. Linode-hosted applications will remain online and hosted until the winners are announced – shortly after voting closes.
 
-Note that during the judging period, competition organizers will also require access to your VPS via supplied SSH keys in order to monitor validity of deployed source code. You should not attempt to change the account credentials for the organizers account. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure that you haven't introduced additional features or bugfixes during the judging period. You may access your VPS during the judging period to restart a stuck process or perform routine maintenance, code changes are explicitly forbidden.
+Note that during the judging period, competition organizers will also require access to your Linode via supplied SSH keys in order to monitor validity of deployed source code. You should not attempt to change the account credentials for the organizers account. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure that you haven't introduced additional features or bugfixes during the judging period. You may access your Linode during the judging period to restart a stuck process or perform routine maintenance, code changes are explicitly forbidden.
 
 ### Third Party Software
 
