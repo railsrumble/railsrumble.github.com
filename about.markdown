@@ -34,7 +34,7 @@ It's a virtual sort of thing. That is to say, your team can work from anywhere. 
 
 ### What kind of things do I have to know in order to compete as a contestant?
 
-Well, a solid grasp of Ruby, Rails, and HTML would be a good start! You'll also need to have a basic understanding of Git (for source control) and Linux (for deployment of your application). We'll be providing you with a Git repository and a Linux VPS for use in the contest.
+Well, a solid grasp of Ruby, Rails, and HTML would be a good start! You'll also need to have a basic understanding of Git (for source control) and Linux (for deployment of your application). We'll be providing you with a Git repository and a Linode virtual server for use in the contest.
 
 ### What do I have to do to help judge applications?
 
@@ -52,9 +52,9 @@ Each team will have a [Linode Virtual Private Server](http://www.linode.com) ava
 
 Absolutely!
 
-### What operating system will the VPS run?
+### What operating system will the virtual server run?
 
-The VPS will run on Linux from any of the distributions Linode offers.
+The virtual server will run on Linux from any of the distributions Linode offers.
 
 ### Can I use third party gems, plugins, libraries, templates, icons, etc.?
 
@@ -68,9 +68,9 @@ So long as the plugin is publicly available and does not provide the majority of
 
 You're free to plan and design the requirements for your application. You're also free to work on paper and/or digital UI mockups. You are not allowed to produce any production digital assets or any test or application code prior to the start of the competition. If you have questions, feel free to contact the [organizers](http://railsrumble.com/contact).
 
-### When will I have access to the code repository and the VPS?
+### When will I have access to the code repository and the virtual server?
 
-You will be able to install your distribution of Linux prior to the competition but the VPS will not boot until the competition begins. You will receive your GitHub repository access when the competition begins.
+You will be able to install your distribution of Linux prior to the competition but the virtual server will not boot until the competition begins. You will receive your GitHub repository access when the competition begins.
 
 ### Does my application need to be open source?
 
