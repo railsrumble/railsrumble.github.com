@@ -21,7 +21,7 @@ A little Ruby 1.9.3 & RubyGems, Git, Memcached, and a dash of official Rails Rum
 
 ## Going Stack-less
 
-The above StackScripts are totally optional. You're welcome to pick from any of Linode's available distributions, roll up your sleeves and configure your server on your own. The only thing we ask is that you remember to add our public key so the Rails Rumble verification system can do its thing. You can do this by sshing into your server and running the following command:
+The above StackScripts are totally optional. You're welcome to pick from any of Linode's available distributions, roll up your sleeves and configure your server on your own. The only thing we ask is that you remember to add our public key so the Rails Rumble verification system can do its thing. You can do this by sshing into your server and running the following command as root:
 
     mkdir -p ~/.ssh && curl http://railsrumble.com.s3.amazonaws.com/rumblebot.pub >> ~/.ssh/authorized_keys && chmod 0644 ~/.ssh/authorized_keys
 
