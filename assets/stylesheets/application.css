@@ -418,6 +418,14 @@ article {
   margin-bottom: 60px;
 }
 
+article .body pre {
+  background-color: #eaeaea;
+  color: #333333;
+  max-width: 720px;
+  overflow-x: auto;
+  padding: 10px 15px;
+}
+
 article .body .footnotes {
   font-size: 12px;
   font-size: 1.2rem;
