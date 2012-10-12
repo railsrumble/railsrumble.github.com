@@ -72,6 +72,10 @@ You're free to plan and design the requirements for your application. You're als
 
 You will be able to install your distribution of Linux prior to the competition but the virtual server will not boot until the competition begins. You will receive your GitHub repository access when the competition begins.
 
+### Can I use my own custom domain?
+
+You can, if you want, but it isn't required that's for sure. We'll provide every entry with a domain, something like your-app.r12.railsrumble.com. If you do use a custom domain, maybe because your app works with subdomains, it's very important that the domain we provide for your app works. And if at all possible, don't redirect from your \*.r12.railsrumble.com domain to your custom domain. If there is some technical necessity, though, you can. Also, you should include details in your app's description or resources area in your team's dashboard about any custom domain you have set up. Oh yeah, you're welcome to register your domain before the competition starts.
+
 ### Does my application need to be open source?
 
 The competition does not require it. We hope that some of you will deliver truly innovative web properties during the event; it shouldn't be a requirement that you share your secret sauce with others unless you want to.
