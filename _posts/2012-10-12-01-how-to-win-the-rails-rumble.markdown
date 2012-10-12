@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Win the Rails Rumble
+permalink: /2012/10/12/how-to-win-the-rails-rumble/
 ---
 
 Getting excited for the weekend? Want to win some prizes? Or is it the taking part that counts? Everyone's motivations are different. Some want to win at any cost, some want an excuse to work on a project idea they've had for ages (which has been known to turn into [full-time businesses](https://stillalive.com/journal/61-rails-rumble-to-100-million-results-in-2-years) before!) and many do it for fun.

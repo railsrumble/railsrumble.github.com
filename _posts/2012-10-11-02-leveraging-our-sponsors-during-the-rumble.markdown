@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leveraging Our Sponsors During The Rumble
-permalink: /2012/10/11/leveraging-our-sponsors-during-the-rumble
+permalink: /2012/10/11/leveraging-our-sponsors-during-the-rumble/
 ---
 
 In addition to Linode & GitHub, who [we told you about earlier today](http://blog.railsrumble.com/2012/10/11/linode-up-and-running-with-stackscripts/), we have a ton of other [amazing sponsors](http://railsrumble.com) this year. If you haven't already seen them, go have a look!
