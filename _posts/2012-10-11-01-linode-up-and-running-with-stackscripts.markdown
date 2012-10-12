@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linode - Up & Running With StackScripts
+permalink: /2012/10/11/linode-up-and-running-with-stackscripts
 ---
 
 [Linode](http://linode.com), our wonderful infrastructure sponsor that'll be providing every team with a server during this year's Rails Rumble, has a great feature called **StackScripts**. Simply said, StackScripts let you get a server up and running faster than fast. A StackScript can be as little as installing Ruby, or something much more involved that sets up and configures everything you need to run an app.
