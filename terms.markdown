@@ -12,6 +12,8 @@ Cloud Warmer, Inc. ("Rails Rumble") operates the Rails Rumble competition and af
 
 There is no charge to participate in the Rails Rumble, either as a participant, judge, or end user. You own any content or source code that you provide to the Service and are solely responsible for keeping it safe.
 
+You may be required to provide a U.S. address to be eligible for certain prizes.
+
 The Terms, contest rules, privacy policy, and other policies may change over time.  We will try to warn you about major changes to the Terms of Service or website features or functionality, but we make no guarantees. Such modifications will become effective immediately upon their posting to this page.  It is your obligation to review these Terms on a regular basis to inform yourself of any changes that may have been made.  Your continued use of any of our Services denotes your acceptance of any such modified terms.
 
 You must read through the entire Terms of Service below and agree with all the details before you use any of our sites (whether or not you have created an account).
