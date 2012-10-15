@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teams - You Made It!
+title: Teams - You've Made It!
 ---
 
 The competition period of the 2012 Rails Rumble is officially over. Phew! Wipe that sweat from your brow, remove the leftover pizza from your shirt, text your loved ones to tell them you're still alive, grab a beer and chill.
