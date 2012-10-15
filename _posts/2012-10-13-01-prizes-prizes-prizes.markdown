@@ -12,7 +12,7 @@ Okay, okay, okay, without further ado:
 
 * 2012 Rails Rumble Championship Belt - Thanks, [Thoughtbot](http://thoughtbot.com)!
 * Physical Prizes (Your pick from gadgets including iPads, iPods, Apple TVs, Kindles, Nexus Tablets) - Per Member
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 8GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 1 Year, Gold Plan, Per Member
 * [Divshot](http://divshot.com) - Lifetime, Per Member
 * [RailsCasts](http://railscasts.com) - Lifetime, Pro, Per Member
@@ -36,7 +36,7 @@ Okay, okay, okay, without further ado:
 
 ### Second Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 4GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 1 Year, Silver Plan, Per Member
 * [Divshot](http://divshot.com) - 1 Year, Per Member
 * [RailsCasts](http://railscasts.com) - 1 Year, Per Member
@@ -60,7 +60,7 @@ Okay, okay, okay, without further ado:
 
 ### Third Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 2GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 1 Year, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 1 Year, Per Member
 * [RailsCasts](http://railscasts.com) - 1 Year, Per Member
@@ -84,7 +84,7 @@ Okay, okay, okay, without further ado:
 
 ### Fourth Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 1 Year, Per Member
 * [RailsCasts](http://railscasts.com) - 1 Year, Per Member
@@ -105,7 +105,7 @@ Okay, okay, okay, without further ado:
 
 ### Fifth Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 6 Months, Per Member
 * [RailsCasts](http://railscasts.com) - 6 Months, Per Member
@@ -126,7 +126,7 @@ Okay, okay, okay, without further ado:
 
 ### Sixth Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 6 Months, Per Member
 * [RailsCasts](http://railscasts.com) - 6 Months, Per Member
@@ -146,7 +146,7 @@ Okay, okay, okay, without further ado:
 
 ### Seventh Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 6 Months, Per Member
 * [RailsCasts](http://railscasts.com) - 6 Months, Per Member
@@ -165,7 +165,7 @@ Okay, okay, okay, without further ado:
 
 ### Eighth Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 6 Months, Per Member
 * [RailsCasts](http://railscasts.com) - 3 Months, Per Member
@@ -184,7 +184,7 @@ Okay, okay, okay, without further ado:
 
 ### Ninth Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 6 Months, Per Member
 * [RailsCasts](http://railscasts.com) - 3 Months, Per Member
@@ -203,7 +203,7 @@ Okay, okay, okay, without further ado:
 
 ### Tenth Place
 
-* [Linode](http://linode.com) - Surprise!
+* [Linode](http://linode.com) - 1 Year @ 1GB for the Team, 1 Year @ 1GB Per Member
 * [GitHub](http://github.com) - 6 Months, Bronze Plan, Per Member
 * [Divshot](http://divshot.com) - 6 Months, Per Member
 * [RailsCasts](http://railscasts.com) - 3 Months, Per Member
