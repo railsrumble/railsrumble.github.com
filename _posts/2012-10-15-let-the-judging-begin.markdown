@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let The Judging Begin!
+title: Let The Judging (Officially) Begin!
 ---
 
 The judging portion of the 2012 Rails Rumble has officially started! Please take some time over the next three days (judging ends on October 18th at 23:59 UTC), to [browse through the 300 completed entries](http://railsrumble.com/entries/all) and pick your favorites. When you're done finding the ones you like the best, go to the [favorites section](http://railsrumble.com/entries/favorites) and get it down to your top ten, put them in order, and click the finalize button to lock in your picks!
