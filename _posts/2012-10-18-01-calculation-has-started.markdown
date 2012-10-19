@@ -4,7 +4,7 @@ title: We've Started Tallying The Votes!
 permalink: /2012/10/18/calculation-has-started/
 ---
 
-Wow, what a week! Competitors, you should be extremely proud of yourself for making it this far! The [experts](http://railsrumble.com/experts) were hugely impressed with what you were able to build in just 48 hours and a ton of pubic judges came to the site and let their voices be heard as well.
+Wow, what a week! Competitors, you should be extremely proud of yourself for making it this far! The [experts](http://railsrumble.com/experts) were hugely impressed with what you were able to build in just 48 hours and a ton of public judges came to the site and let their voices be heard as well.
 
 And while we know how badly you want to fire off a deployment, **please wait until the winners are announced before deploying anything new**. It won't be much longer, we promise!
 
