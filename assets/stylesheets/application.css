@@ -315,6 +315,9 @@ body {
       position: absolute;
       top: 0;
       right: 0; }
+    #header sup {
+      color: #dedc28;
+      vertical-align: top; }
   #header nav {
     margin-top: 5px;
     margin-top: 0.5rem;
