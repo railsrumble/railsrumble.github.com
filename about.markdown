@@ -22,11 +22,11 @@ There are **10 Overall Winners**, ranked 1 through 10, picked by our expert judg
 
 ### When does the competition start?
 
-The 2012 Rails Rumble will begin Saturday, October 13th at 00:00:00 UTC (midnight) and continue for the next 48 hours, until Sunday, October 14th at 23:59:59 UTC.
+The 2013 Rails Rumble will begin Saturday, October 19th at 00:00:00 UTC (midnight) and continue for the next 48 hours, until Sunday, October 20th at 23:59:59 UTC.
 
 ### When does registration open?
 
-Registration for the 2012 Rails Rumble will be opened on October 1st and will close on October 7th. We'll open up as many spots as possible, but there will be limited space. Remember &mdash; first come first serve.
+Registration for the 2013 Rails Rumble will be opened on October 7th and will close on October 13th. We'll open up as many spots as possible, but there will be limited space. Remember &mdash; first come first serve.
 
 ### Where is the competition held?
 

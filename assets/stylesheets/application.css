@@ -315,6 +315,8 @@ body {
       position: absolute;
       top: 0;
       right: 0; }
+    #header a {
+      text-decoration: none; }
     #header sup {
       color: #dedc28;
       vertical-align: top; }
@@ -434,60 +436,11 @@ article .body .footnotes {
   font-size: 1.2rem;
 }
 
-#filter {
-  background: url(/assets/images/header_bg.png);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  padding: 25px;
-  position: relative;
-
-  .btn, #q {
-    -webkit-transition: .1s linear all;
-    -moz-transition: .1s linear all;
-    -ms-transition: .1s linear all;
-    -o-transition: .1s linear all;
-    transition: .1s linear all;
-  }
-
-  #clear {
-    color: #333333;
-    cursor: pointer;
-    display: none;
-    position: absolute;
-    right: 32px;
-    text-decoration: none;
-    top: 28px;
-    z-index: 1000;
-  }
-
-  #q {
-    background-color: rgba(255, 255, 255, 0.25);
-    border: 1px solid transparent;
-    float: right;
-    margin-top: 0;
-    padding: 5px 20px 5px 8px;
-    width: 150px;
-  }
-
-  &.search-focused {
-
-    .btn {
-      opacity: 0.25;
-    }
-
-    #q {
-      background-color: #ffffff;
-      border: 1px solid #ffffff;
-      outline: none;
-      width: 250px;
-    }
-  }
-}
-
 #sidebar #mc_embed_signup h1 {
   font-size: 18px;
   font-size: 1.8rem;
+  height: 30px;
+  line-height: 30px !important;
   margin-bottom: 0;
 }
 
@@ -514,11 +467,32 @@ article .body .footnotes {
   *line-height: 16px;
   text-transform: uppercase;
   vertical-align: middle;
-  width: 105px;
+  width: 95px;
+}
+
+#sidebar #sponsorship-interest h1 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  height: 30px;
+  line-height: 30px !important;
+  margin-bottom: 0;
+}
+
+#sidebar #sponsorship-interest p {
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  line-height: 2.2rem;
+  margin: 10px 0;
 }
 
 #sidebar #sponsors {
 
+}
+
+#sidebar #sponsors h1 {
+  height: 30px;
+  line-height: 30px !important;
 }
 
 #sidebar #sponsors div {
@@ -550,42 +524,26 @@ article .body .footnotes {
   margin-left: 15px;
 }
 
-#organizers .center {
-  font-size: 15px;
-  line-height: 15px;
-  margin: 24px 0 48px 0;
+.well {
+  background: url(/assets/images/header_bg.png);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px 25px;
 }
 
-#organizers .organizer {
-  clear: both;
+#sidebar .well {
+  padding: 5px 10px;
 }
 
-#organizers .organizer img {
-  border: 3px solid white;
-  float: left;
-  height: 128px;
-  width: 128px;
+#sidebar .well h1 {
+  margin-top: 0;
 }
 
-#organizers .organizer div {
-  margin-left: 154px;
+#sidebar article {
+  margin-bottom: 0;
 }
 
-#organizers .organizer div h1 {
-  margin: 0;
-}
-
-#organizers .organizer div h1 small {
-  color: #dedc28;
-  font-size: 12px;
-  font-size: 1.2rem;
-  text-transform: uppercase;
-}
-
-#organizers .organizer div p {
-  margin: 12px 0;
-}
-
-#organizers .organizer + .organizer {
-  margin-top: 60px;
+#sidebar article + article {
+  margin-top: 25px;
 }

@@ -16,7 +16,7 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
 2. **48 Hours**
 
-    As a contestant, your team has exactly 48 hours to develop your web based application during the Rumble. The competition kicks off at 12:00AM UTC / 00:00 UTC on October 13th, 2012 and will end at 11:59PM / 23:59 UTC on October 14th, 2012.
+    As a contestant, your team has exactly 48 hours to develop your web based application during the Rumble. The competition kicks off at 12:00AM UTC / 00:00 UTC on October 19th, 2013 and will end at 11:59PM / 23:59 UTC on October 20th, 2013.
 
     You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and user stores / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine). Please post any information of this sort publicly, and make sure to list these items on your team profile page in order to prevent any questioning. Plan, don't create. And if you're in doubt, send us an email to verify.
 
@@ -72,7 +72,7 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
 #### Cloud Warmer, Inc.
 
-# Official Contest Rules - 2012 Rails Rumble
+# Official Contest Rules - 2013 Rails Rumble
 
 The Rails Rumble is a Skill-based contest where developers can show off their Ruby on Rails development skills in accordance with the guidelines below.  Winners are chosen based on merit.
 
@@ -102,9 +102,9 @@ All applications must be built using [Ruby on Rails](http://rubyonrails.org) or 
 
 ### 48 Hours
 
-As a contestant, your team has exactly 48 hours to develop your web based application during the event. The competition kicks off at 12:00am / 00:00 UTC on October 13th, 2012 and will end at 11:59PM / 23:59 UTC on October 14th, 2012 ("Contest timeframe"). You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and executable user stories / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine).
+As a contestant, your team has exactly 48 hours to develop your web based application during the event. The competition kicks off at 12:00am / 00:00 UTC on October 19th, 2013 and will end at 11:59PM / 23:59 UTC on October 20th, 2013 ("Contest timeframe"). You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and executable user stories / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine).
 
-After those 48 hours are completed at 11:59PM / 23:59 UTC on October 14th, 2012, an expert panel and a jury of peer judges will be invited to use your application and judge it against the competition in the manner described below. No additional features or bug fixes are allowed during this period, or you will be disqualified. For full instructions on how to participate and contest requirements, see below.
+After those 48 hours are completed at 11:59PM / 23:59 UTC on October 20th, 2013, an expert panel and a jury of peer judges will be invited to use your application and judge it against the competition in the manner described below. No additional features or bug fixes are allowed during this period, or you will be disqualified. For full instructions on how to participate and contest requirements, see below.
 
 ### Teams
 
@@ -116,7 +116,7 @@ We'll provide your team with a free private Git repository courtesy of [GitHub](
 
 Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process.
 
-Prior to the conclusion of the Contest Timeframe, 11:59PM / 23:59 UTC on October 14th, 2010, you must mark your entry as complete on your team profile page and tag a release of your code with the word "rumble12". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
+Prior to the conclusion of the Contest Timeframe, 11:59PM / 23:59 UTC on October 20th, 2013, you must mark your entry as complete on your team profile page and tag a release of your code with the word "rumble12". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
 
 ### Deployment
 
@@ -156,7 +156,7 @@ There are limited spots available. Each team will submit a single entry. Spots a
 
 Judging, will occur after the build portion of the competition is completed. Both expert judges and public judges will pick their 10 favorite entries and rank them from 1 through 10, at the same time. Expert judge rankings will result in the top ten overall winners. Public judges will result in a single "Public Favorite" award.
 
-The expert panel of industry judges will be made up of experts in different fields throughout the industry. The identity of these judges will be disclosed to the teams prior to the Contest Timeframe. The expert judging period will take place from October 16th, 2012 until October 18th, 2012.
+The expert panel of industry judges will be made up of experts in different fields throughout the industry. The identity of these judges will be disclosed to the teams prior to the Contest Timeframe. The expert judging period will take place from October 22th, 2013 until October 24th, 2013.
 
 All judging will occur from the perspective of an average consumer / Internet end user. Meaning, code quality will not be judged. We believe code quality to be a highly subjective affair, and thorough reviews are extremely time-intensive and not in the best interests of this competition. Your application will be judged based on it's visible merits. In particular, we ask judges to consider a number of aspects including: originality, usefulness, appearance, and completeness. However, these categories are not individually rated.
 
@@ -164,7 +164,7 @@ Each judge (both expert panel members as well as public judges) will choose thei
 
 At the conclusion of the expert judging period, an overall top ten ranking (places 1 through 10), solely based on combined rankings from all expert judges, will be revealed as the winners.
 
-Public judges are members of the general public that have registered with Rails Rumble to participate in judging. Public judging will also occur from October 16th, 2012 until October 18th, 2012. These public judges will award a single "Public Favorite" award.
+Public judges are members of the general public that have registered with Rails Rumble to participate in judging. Public judging will also occur from October 22th, 2013 until October 24th, 2013. These public judges will award a single "Public Favorite" award.
 
 Further, a "Solo" award will be given to the team with a single member that has the highest expertly judged rank.
 
@@ -194,7 +194,7 @@ The available prizes from our sponsors is subject to change, so check back often
 
 All Federal, State and local taxes related to any prize are the responsibility of the individual winners.
 
-The Winners of each prize above will be notified on October 19th, 2012. Each team will be contacted via their Rails Rumble account within one week of announcing the winners, concerning each award and the information required for retrieving the awards from the sponsors. All awards will be made available to the winners within three (3) months of October 19th, 2012 (subject to prize and sponsor restrictions).
+The Winners of each prize above will be notified on October 25th, 2013. Each team will be contacted via their Rails Rumble account within one week of announcing the winners, concerning each award and the information required for retrieving the awards from the sponsors. All awards will be made available to the winners within three (3) months of October 25th, 2013 (subject to prize and sponsor restrictions).
 
 ### Sponsors
 
@@ -206,7 +206,7 @@ If at any time you would like to be removed from the email list or have your acc
 
 ### Winners List
 
-For a list of the winners, please visit railsrumble.com. Such list will be available after October 19th, 2012.
+For a list of the winners, please visit railsrumble.com. Such list will be available after October 25th, 2013.
 
 ### Administrator
 
