@@ -32,7 +32,7 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
     Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process. Don't plan on doing anything tricky like developing your application in its entirety ahead of time, rebasing it and pushing it in at 9AM Saturday morning and relaxing with a Mimosa. That's bad.
 
-    Before the contest ends, you must mark your entry as complete on the team profile and tag a release of your code with the word "rumble12". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
+    Before the contest ends, you must mark your entry as complete on the team profile and tag a release of your code with the word "rumble13". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
 
 5. **Deployment at Linode**
 
