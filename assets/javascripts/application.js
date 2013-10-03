@@ -23,7 +23,17 @@
         _.each(_.sortBy(data['competition']['sponsors'], function(sponsor){ return sponsor['position']; }), function(sponsor, position) {
           image = $('<img/>').attr('src', sponsor['image_for_sidebar']);
           link  = $('<a></a>').attr('href', sponsor['url']).attr('target', '_blank');
-          $('#sponsors').append($('<div></div>').append(link.append(image)));
+
+          // Generate Sponsor
+          $('#sponsors').append($('<div></div>').append(link.clone().append(image.clone())));
+
+          // Generate Sponsor Highlight Block
+          if(sponsor['highlighted'] && (sponsor['bio'] != '')) {
+            $('#sponsor-highlight div').empty();
+            $('#sponsor-highlight div').append(link.clone().append(image.clone()));
+            $('#sponsor-highlight div').append(link.clone().text(sponsor['bio']));
+            $('#sponsor-highlight').show();
+          }
         });
       }catch(a){}
     }

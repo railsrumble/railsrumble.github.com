@@ -486,6 +486,30 @@ article .body .footnotes {
   margin: 10px 0;
 }
 
+#sidebar #sponsor-highlight {
+  display: none;
+}
+
+#sidebar #sponsor-highlight div {
+  font-size: 13px;
+  margin-bottom: 0;
+  padding: 14px 0 7px 0;
+  text-align: center;
+}
+
+#sidebar #sponsor-highlight div a {
+  color: #ffffff;
+  display: block;
+}
+
+#sidebar #sponsor-highlight div a:hover {
+  text-decoration: none;
+}
+
+#sidebar #sponsor-highlight div a + a {
+  margin-top: 7px;
+}
+
 #sidebar #sponsors {
 
 }
