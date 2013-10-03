@@ -3,7 +3,7 @@ layout: post
 title: Meet The 2013 Sponsors!
 ---
 
-We're now just a few days away from registration, and as you can see, we've completely switched over to the 2013 Rails Rumble site. This includes all of our incredible new sponsors that make the rumble possible. Check them out below, read their bios, click through and ogle their wares.
+We're only a few days away from registration, and as you can see, we've completely switched over to the 2013 Rails Rumble site. This includes all of our incredible new sponsors that make the rumble possible. Check them out below, read their bios, click through and ogle their wares.
 
 TOMORROW WE POST THE PRIZES!
 
