@@ -196,7 +196,7 @@ All Federal, State and local taxes related to any prize are the responsibility o
 
 The Winners of each prize above will be notified on October 25th, 2013. Each team will be contacted via their Rails Rumble account within one week of announcing the winners, concerning each award and the information required for retrieving the awards from the sponsors. All awards will be made available to the winners within three (3) months of October 25th, 2013 (subject to prize and sponsor restrictions).
 
-### Sponsors
+### Current Sponsors
 
 Please see the [list of sponsors](/sponsors) for a full list of contest sponsors. The sponsors list is constantly growing and subject to change, so check back often.
 
