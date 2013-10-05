@@ -116,7 +116,7 @@ We'll provide your team with a free private Git repository courtesy of [GitHub](
 
 Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process.
 
-Prior to the conclusion of the Contest Timeframe, 11:59PM / 23:59 UTC on October 20th, 2013, you must mark your entry as complete on your team profile page and tag a release of your code with the word "rumble12". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
+Prior to the conclusion of the Contest Timeframe, 11:59PM / 23:59 UTC on October 20th, 2013, you must mark your entry as complete on your team profile page and tag a release of your code with the word "rumble13". This should be the version deployed on your Linode and will be validated by our automated qualifier system.
 
 ### Deployment
 
