@@ -12,6 +12,10 @@ The Rails Rumble is a distributed programming competition where teams of up to 4
 
 Yes, there are! You can read the [official contest rules here](/rules).
 
+### Is there an official Code of Conduct I can read?
+
+To read our official Code of Conduct, [check here](/conduct)
+
 ### How are entries judged?
 
 We ask our expert judges to consider a number of aspects, including: originality, usefulness, appearance, and completeness. However, these categories are not individually rated. Rather, expert judges will consider these aspects when coming up with a list of their 10 favorite entries. Experts will then rank their favorites from 1 through 10 and all expert rankings will be combined to come up with the top **10 Overall Winners**.
