@@ -10,7 +10,7 @@ We value the participation of each member of the Ruby community and want all par
 
 To make clear what is expected, all organizers, judges, and participants of the Rails Rumble are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
-## The Short Version
+## What's Expected
 
 Rails Rumble is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
 
@@ -21,16 +21,6 @@ Be kind to others. Do not insult or put down other participants. Behave professi
 Participants violating these rules will be removed from the event and no longer allowed to participate, at the sole discretion of the organizers.
 
 Thank you for helping make this a welcoming, friendly event for all.
-
-## The Longer Version
-
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, and unwelcome sexual attention.
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to other participants. Excessive swearing and offensive jokes are not appropriate for the Rails Rumble.
-
-If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion and disqualification from the event.
 
 ## Contact Information
 
