@@ -14,9 +14,9 @@ To make clear what is expected, all organizers, judges, and participants of the 
 
 Rails Rumble is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any event venue, including entries, comments, and IRC.
+All communication should be appropriate for a professional audience including people of many different backgrounds. Be careful in the words that you choose. Sexist, racist, and other exclusionary jokes can be offensive to other participants. Sexual language and imagery, excessive swearing, and offensive jokes are not appropriate for the Rails Rumble in any venue, including in application entries themselves, comments posted throughout the Rails Rumble site, and in the official #railsrumble IRC channel.
 
-Be kind to others. Do not insult or put down other participants. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Rails Rumble.
+Be kind to others. Do not insult or put down other participants. Behave professionally.
 
 Participants violating these rules will be removed from the event and no longer allowed to participate, at the sole discretion of the organizers.
 
