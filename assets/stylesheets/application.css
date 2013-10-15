@@ -258,7 +258,7 @@ h1 {
   font-size: 3rem;
   line-height: 3.4rem; }
 
-p + h2 {
+p + h2, hr + h2 {
   padding-top: 20px; padding-top: 2rem; }
 
 p + h3 {
@@ -342,8 +342,8 @@ body {
         font-size: 2rem; }
 
 article header {
-  margin-bottom: 40px;
-  margin-bottom: 4rem; }
+  margin-bottom: 17px;
+  margin-bottom: 1.7rem; }
   article header h1 {
     margin-bottom: 5px;
     margin-bottom: 0.5rem; }
