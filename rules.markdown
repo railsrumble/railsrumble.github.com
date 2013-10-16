@@ -14,7 +14,7 @@ To read our official Code of Conduct, [check here](/conduct)
 
 What follows is a quick summary of the rules. Before entering, you'll be asked to accept the full, official rules, which you can read below. If you have any questions, please feel free to email the [organizers](http://railsrumble.com/contact).
 
-1. **Ruby on Rails**
+1. **Ruby-Based Rack Framework Required - Ruby on Rails / Sinatra**
 
     All applications must be built using Ruby on Rails or another Rack-based Ruby web framework. No substitutes!
 
@@ -32,7 +32,7 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
 4. **Source Control at GitHub**
 
-    We'll provide your team with a free private Git repository courtesy of [GitHub](http://github.com). As you develop your application, you should push your progress to the repository. You should push regularly ("commit early, commit often") in order to demonstrate progress.
+    We'll provide your team with a free private Git repository courtesy of [GitHub](http://github.com) that you must use. As you develop your application, you should push your progress to the repository. You should push regularly ("commit early, commit often") in order to demonstrate progress.
 
     Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process. Don't plan on doing anything tricky like developing your application in its entirety ahead of time, rebasing it and pushing it in at 9AM Saturday morning and relaxing with a Mimosa. That's bad.
 
@@ -44,13 +44,15 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
     Competition organizers will also require access to your Linode account during the judging period via supplied SSH keys. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure you haven't introduced additional features or bugfixes during the judging period. You may access your Linode account during the judging period to restart a stuck process or perform routine maintenance, however.
 
+    You may not host your application anywhere other than the provided Linode.
+
 6. **Leverage Others**
 
     Third party software, in the form of RubyGems or Plugins are allowed, even encouraged (if publicly available and allowed for the use intended by this contest). Please make sure to update your team profile once the competition has started, and list any third party libraries, plugins, or other applications (e.g. ImageMagick, ffmpeg, etc) that you make use of. Third party JavaScript libraries, Flash widgets, and other component libraries, are allowed. You must update your profile to list any external libraries that are in use and give appropriate credit and citations.
 
-    Stock photography, icon sets, and publicly available templates are allowed. Teams are prohibited from commissioning or otherwise paying for any content that is created specifically for the application as opposed to being publicly available for everyone's use. Developing a plugin or library before the competition that provides your application's general functionality is considered cheating. Developing a plugin or library that is publicly available and provides a general purpose publicly usable function (such as accessing an API) can be done before the competition begins. Purchases will not improve your chances of winning. This is a skill-based contest.
+    Stock photography, icon sets, and publicly available templates are allowed. Teams are prohibited from commissioning or otherwise paying for any content that is created **specifically** for the application as opposed to being publicly available for everyone's use. Developing a plugin or library before the competition that provides your application's general functionality is considered cheating. Developing a plugin or library that is publicly available and provides a general purpose publicly usable function (such as accessing an API) can be done before the competition begins. Purchases will not improve your chances of winning. This is a skill-based contest.
 
-    Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
+    Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. If you'd like to use some other third party service, that service must provide a a free tier or free trial that anyone can use. For example, [Pusher](http://pusher.com) has a free tier. For transactional email, try [Mandrill by MailChimp](http://mandrill.com). As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
 
     If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
 
@@ -100,7 +102,7 @@ All information must be complete and accurate to be eligible. Personal informati
 
 ### COMPETITION PROCEDURES AND REQUIREMENTS
 
-### Ruby on Rails
+### Ruby-Based Rack Framework Required - Ruby on Rails / Sinatra
 
 All applications must be built using [Ruby on Rails](http://rubyonrails.org) or other [Rack](http://rack.rubyforge.org)-based Ruby web frameworks. No substitutes! If in doubt about whether your chosen framework qualifies, feel free to [contact us](http://railsrumble.com/contact).
 
@@ -116,7 +118,7 @@ Teams should be comprised of between one and four individuals. No more than four
 
 ### Source Control
 
-We'll provide your team with a free private Git repository courtesy of [GitHub](http://github.com). The account details for this Git repository will be provided via your Rails Rumble account prior to the Contest Timeframe. As you develop your application, you should push your progress to the repository. You should push to the repository regularly ("commit early, commit often") in order to demonstrate progress.
+We'll provide your team with a free private Git repository courtesy of [GitHub](http://github.com) that you must use. The account details for this Git repository will be provided via your Rails Rumble account prior to the Contest Timeframe. As you develop your application, you should push your progress to the repository. You should push to the repository regularly ("commit early, commit often") in order to demonstrate progress.
 
 Note that organizers will be observing checkins to monitor validity and progress throughout both the development portion of the contest and the judging process.
 
@@ -130,13 +132,15 @@ Teams will be judged on the overall user experience. If an application crashes o
 
 Note that during the judging period, competition organizers will also require access to your Linode via supplied SSH keys in order to monitor validity of deployed source code. You should not attempt to change the account credentials for the organizers account. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure that you haven't introduced additional features or bugfixes during the judging period. You may access your Linode during the judging period to restart a stuck process or perform routine maintenance, code changes are explicitly forbidden.
 
+You may not host your application anywhere other than the provided Linode.
+
 ### Third Party Software
 
 Third party software, in the form of RubyGems or Plugins are allowed, even encouraged (if publicly available and allowed for the use intended by this contest). Please make sure to update your team profile once the competition has started, and list any third party libraries, plugins, or other applications (e.g. ImageMagick, ffmpeg, etc) that you make use of. Third party JavaScript libraries, Flash widgets, and other component libraries, are allowed. You must update your profile to list any external libraries that are in use and give appropriate credit and citations.
 
 Stock photography, icon sets, and publicly available templates are allowed. Teams are prohibited from commissioning or otherwise paying for any content that is created specifically for the application as opposed to being publicly available for everyone's use. Developing a plugin or library before the competition that provides your application's general functionality is considered cheating. Developing a plugin or library that is publicly available and provides a general purpose publicly usable function (such as accessing an API) can be done before the competition begins. Purchases will not improve your chances of winning. This is a skill-based contest.
 
-Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
+Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. For example, [Pusher](http://pusher.com) has a free tier, so it's okay. For transactional email, try [Mandrill by MailChimp](http://mandrill.com), which also has a free tier. As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
 
 If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
 
