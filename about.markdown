@@ -78,7 +78,7 @@ You will be able to install your distribution of Linux prior to the competition 
 
 ### Can I use my own custom domain?
 
-You can, if you want, but it isn't required that's for sure. We'll provide every entry with a domain, something like your-app.r13.railsrumble.com. Please note that the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be accessing. If you have a custom domain, you **must still support the subdomain** URL we provide. The only exception is if your app **requires** SSL for something like credit card processing. If that's the case, then you must still handle the http subdomain request, and then handle the redirect to your https custom domain (we don't provide wildcard \*.r13.railsrumble.com SSL certs) in your web server. Additionally, you must explain in your app's resources section that you are redirecting to the custom domain because your app requires SSL to function.
+You can, if you want, but it isn't required that's for sure. We'll provide every entry with a domain, something like your-app.r13.railsrumble.com. Also, please note that the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
 ### Does my application need to be open source?
 

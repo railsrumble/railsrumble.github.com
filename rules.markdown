@@ -46,7 +46,7 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
     You may not host your application anywhere other than the provided Linode.
 
-    Related to deploying at Linode, the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be accessing. If you have a custom domain, you **must still support the subdomain** URL we provide. The only exception is if your app **requires** SSL for something like credit card processing. If that's the case, then you must still handle the http subdomain request, and then handle the redirect to your https custom domain (we don't provide wildcard \*.r13.railsrumble.com SSL certs) in your web server. Additionally, you must explain in your app's resources section that you are redirecting to the custom domain because your app requires SSL to function.
+    Related to deploying at Linode, the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
 6. **Leverage Others**
 
@@ -136,7 +136,7 @@ Note that during the judging period, competition organizers will also require ac
 
 You may not host your application anywhere other than the provided Linode.
 
-Related to deploying at Linode, the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be accessing. If you have a custom domain, you **must still support the subdomain** URL we provide. The only exception is if your app **requires** SSL for something like credit card processing. If that's the case, then you must still handle the http subdomain request, and then handle the redirect to your https custom domain (we don't provide wildcard \*.r13.railsrumble.com SSL certs) in your web server. Additionally, you must explain in your app's resources section that you are redirecting to the custom domain because your app requires SSL to function.
+Related to deploying at Linode, the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
 ### Third Party Software
 
