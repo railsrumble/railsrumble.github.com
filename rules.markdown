@@ -46,6 +46,8 @@ What follows is a quick summary of the rules. Before entering, you'll be asked t
 
     You may not host your application anywhere other than the provided Linode.
 
+    Related to deploying at Linode, the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be accessing. If you have a custom domain, you **must still support the subdomain** URL we provide. The only exception is if your app **requires** SSL for something like credit card processing. If that's the case, then you must still handle the http subdomain request, and then handle the redirect to your https custom domain (we don't provide wildcard \*.r13.railsrumble.com SSL certs) in your web server. Additionally, you must explain in your app's resources section that you are redirecting to the custom domain because your app requires SSL to function.
+
 6. **Leverage Others**
 
     Third party software, in the form of RubyGems or Plugins are allowed, even encouraged (if publicly available and allowed for the use intended by this contest). Please make sure to update your team profile once the competition has started, and list any third party libraries, plugins, or other applications (e.g. ImageMagick, ffmpeg, etc) that you make use of. Third party JavaScript libraries, Flash widgets, and other component libraries, are allowed. You must update your profile to list any external libraries that are in use and give appropriate credit and citations.
@@ -133,6 +135,8 @@ Teams will be judged on the overall user experience. If an application crashes o
 Note that during the judging period, competition organizers will also require access to your Linode via supplied SSH keys in order to monitor validity of deployed source code. You should not attempt to change the account credentials for the organizers account. The deployed codebase may occasionally be compared to the final tagged version (as of the competition closing) to make sure that you haven't introduced additional features or bugfixes during the judging period. You may access your Linode during the judging period to restart a stuck process or perform routine maintenance, code changes are explicitly forbidden.
 
 You may not host your application anywhere other than the provided Linode.
+
+Related to deploying at Linode, the \*.r13.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be accessing. If you have a custom domain, you **must still support the subdomain** URL we provide. The only exception is if your app **requires** SSL for something like credit card processing. If that's the case, then you must still handle the http subdomain request, and then handle the redirect to your https custom domain (we don't provide wildcard \*.r13.railsrumble.com SSL certs) in your web server. Additionally, you must explain in your app's resources section that you are redirecting to the custom domain because your app requires SSL to function.
 
 ### Third Party Software
 
