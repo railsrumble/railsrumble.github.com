@@ -5,7 +5,7 @@ title: "Let The Judging Commence!"
 
 <p>
   <a href="http://railsrumble.com/experts">
-    <img src="http://s0.railsrumble.com/r13-experts.jpg"/>
+    <img src="http://s0.railsrumble.com/r13-experts-1.jpg"/>
   </a>
 </p>
 
