@@ -8,7 +8,6 @@ layout: default
 
 1. Go to [railsrumble.com](http://railsrumble.com).
 2. Click the "Sign In" button on the top left.
-3. Click "via Twitter" - Judges must sign in via Twitter.
 
 ## Browsing Entries
 

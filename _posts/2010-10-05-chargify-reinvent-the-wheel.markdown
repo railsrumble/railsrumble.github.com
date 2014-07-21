@@ -3,8 +3,7 @@ layout: post
 title: You Don’t Have to Reinvent the Wheel
 ---
 
-_Note: This is a guest post by one of our event sponsors,
-[Chargify](http://chargify.com)_
+_Note: This is a guest post by one of our event sponsors, [Chargify](http://chargify.com)_
 
 Chargify is sponsoring the [Most Potential to
 Monetize" challenge](/challenges/monetize) in this year's Rails Rumble, which means we'll reward the app that has the best chance to charge real money to real customers.

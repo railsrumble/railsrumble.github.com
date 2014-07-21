@@ -17,8 +17,7 @@ come. Many thanks to <a href="http://chargify.com">Chargify</a>,
 <a href="http://zencoder.com">Zencoder</a>,
 <a href="http://oneforty.com">oneforty</a>,
 <a href="http://postageapp.com">PostageApp</a>,
-<a href="http://websolr.com">WebSolr</a>, <a href="http://blueboxgrp.com">Blue
-Box Group</a>, and <a href="http://railslove.com">Railslove</a>, all of whom
+<a href="http://websolr.com">WebSolr</a>, <a href="http://blueboxgrp.com">Blue Box Group</a>, and <a href="http://railslove.com">Railslove</a>, all of whom
 have recently signed up to help us out with infrastructure, operations, and of
 course prizes (the prizes list will receive an update very soon!)
 

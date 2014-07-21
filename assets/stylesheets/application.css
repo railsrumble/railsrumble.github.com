@@ -352,8 +352,8 @@ article header {
   /*margin-top: 80px;
   margin-top: 8rem;*/ }
   #sidebar h1 {
-    font-size: 21px;
-    font-size: 2.1rem; }
+    font-size: 18px;
+    font-size: 1.8rem; }
 
 
 h1#not-found {
@@ -468,6 +468,51 @@ article .body .footnotes {
   text-transform: uppercase;
   vertical-align: middle;
   width: 120px;
+}
+
+#sidebar #job-highlight {
+  background-color: #FAFA91;
+  background-image: none;
+}
+
+#sidebar #job-highlight a {
+  color: #202020;
+  display: block;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  line-height: 2.2rem;
+  margin: 0;
+  text-align: center;
+}
+
+#sidebar #job-highlight a span {
+  color: #08aeb5;
+}
+
+#sidebar #job-highlight a span:hover {
+  text-decoration: underline;
+}
+
+#sidebar #job-highlight a:hover {
+  text-decoration: none;
+}
+
+#sidebar #job-highlight a:last-child {
+  font-size: 12px;
+  font-size: 1.2rem;
+  line-height: 18px;
+  line-height: 1.8rem;
+}
+
+#sidebar #job-highlight hr {
+  border: 0;
+  border-top: 1px solid rgba(32, 32, 32, 0.1);
+  display: block;
+  -webkit-margin-before: 0.5em;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
 }
 
 #sidebar #sponsorship-interest h1 {

@@ -4,15 +4,13 @@ title: Tropo Sponsor Challenge
 ---
 
 The last <a href="/challenges">Rails Rumble 2010 Sponsor Challenge</a> has
-finally been announced. It's for <a href="/challenges/voice">Best Use of Real-Time
-Communication</a> and the category is sponsored by our friends at
+finally been announced. It's for <a href="/challenges/voice">Best Use of Real-Time Communication</a> and the category is sponsored by our friends at
 <a href="http://tropo.com">Tropo</a>. Want to integrate support for voice /
 telephony, SMS, or IM into your Rumble app? Check out Tropo's API (free for
 developers) and sign up for the sponsor challenge today by editing your team
 profile!
 
-_Note: This is a guest post by one of our event sponsors,
-<a href="http://tropo.com">Tropo</a>_
+_Note: This is a guest post by one of our event sponsors, <a href="http://tropo.com">Tropo</a>_
 
 Connecting to your web site's users with voice, SMS, or even IM allows
 you to reach them when they aren't at their desks. These real-time

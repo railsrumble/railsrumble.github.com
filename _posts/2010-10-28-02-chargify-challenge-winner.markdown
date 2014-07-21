@@ -3,8 +3,7 @@ layout: post
 title: Chargify Challenge Winner
 ---
 
-_Note: This is a guest post by one of our challenge match sponsors,
-<a href="http://chargify.com">Chargify</a>._
+_Note: This is a guest post by one of our challenge match sponsors, <a href="http://chargify.com">Chargify</a>._
 
 <img src="/images/2010/10/chargify_150.png" alt="Chargify" style="float: right; margin: 0 0 10px 10px;"/>
 

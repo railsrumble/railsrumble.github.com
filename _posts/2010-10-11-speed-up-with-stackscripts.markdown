@@ -3,11 +3,9 @@ layout: post
 title: Speed Up Your Rumble Deployment with Linode StackScripts
 ---
 
-_Note: This is a guest post by one of our event sponsors,
-<a href="http://linode.com">Linode</a>_
+_Note: This is a guest post by one of our event sponsors, <a href="http://linode.com">Linode</a>_
 
-<img src="/images/2010/10/pancake-stack.png" style="float: right; margin: 0 0 10px
-0;"/>
+<img src="/images/2010/10/pancake-stack.png" style="float: right; margin: 0 0 10px 0;"/>
 
 Linode is proud to be sponsoring the Rails Rumble for the fourth consecutive
 year.  We'd like to highlight a new Linode feature available to teams this
@@ -22,8 +20,4 @@ StackScripts provide a way to create automated custom deployments. Here's the br
 
 As a developer, if you've made it this far in the blog post, we're sure there are dozens of ideas popping up in your head. Get to work, and save those precious few minutes when the Rumble begins. Good luck!
 
-_UPDATE: Members of the <a href="http://twitter.com/madrailers">Madison Ruby
-User Group</a> have put together a
-<a href="http://github.com/madrailers/rumble_stack_script">swanky base
-StackScript especially for Rails Rumble projects</a>. Check it out on GitHub
-and fork away!_
+_UPDATE: Members of the <a href="http://twitter.com/madrailers">Madison Ruby User Group</a> have put together a <a href="http://github.com/madrailers/rumble_stack_script">swanky base StackScript especially for Rails Rumble projects</a>. Check it out on GitHub and fork away!_

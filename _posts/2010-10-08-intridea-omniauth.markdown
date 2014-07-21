@@ -3,8 +3,7 @@ layout: post
 title: Separating Authentication and Identity with OmniAuth
 ---
 
-_Note: This is a guest post by one of our event sponsors,
-<a href="http://intridea.com">Intridea</a>_
+_Note: This is a guest post by one of our event sponsors, <a href="http://intridea.com">Intridea</a>_
 
 Your Rails Rumble app could live and die by its authentication scheme. Judges and voters are only going to spend a precious few minutes with your app, and you have to make every second count. Judges don't want to create unique logins for every app they review, and you wouldn't either. But you don't need the headache of stringing together multiple libraries to support multiple authentication providers, not to mention the pain if your app is a mashup of multiple services.
 

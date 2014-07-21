@@ -13,8 +13,7 @@ hand selected by the sponsors.
 We're happy to report that the first of these special awards goes to our
 friends at <a href="http://instalover.r10.railsrumble.com">Instalover</a> for
 their SMS-based instant blind dating app. Instalover was chosen by
-<a href="http://tropo.com">Tropo</a> for the <a href="/challenges/voice">"Best Use of Real-Time
-Communications"</a> category and the team members are getting some sweet Sonos S5
+<a href="http://tropo.com">Tropo</a> for the <a href="/challenges/voice">"Best Use of Real-Time Communications"</a> category and the team members are getting some sweet Sonos S5
 Music systems for their efforts.
 
 If you haven't already, check out

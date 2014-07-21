@@ -21,8 +21,7 @@ but the code deployed on your box must match the final tag you deployed.
 As one final reminder, you need to tag the final version of your code with the
 word '<strong>rumble10</strong>' and push those tags up to GitHub. If you need help with this,
 check
-<a href="http://blog.railsrumble.com/blog/2010/10/16/02-were-halfway-there">this
-blog post.</a> The version of your app deployed to production must
+<a href="http://blog.railsrumble.com/blog/2010/10/16/02-were-halfway-there">this blog post.</a> The version of your app deployed to production must
 match the tagged code. Git tags are locked down for reals at 10 past, and then
 that's that. Verification will be finalized one hour from now and at that
 point, teams that don't pass verification will be disqualified.

@@ -4,7 +4,7 @@ layout: default
 
 # Code of Conduct
 
-The Rails Rumble is a community event intended for networking and collaboration in the developer community.
+The Rails Rumble is a community event intended for fun, networking, and collaboration in the developer community.
 
 We value the participation of each member of the Ruby community and want all participants to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to show respect and courtesy to other participants throughout the event.
 
@@ -12,7 +12,7 @@ To make clear what is expected, all organizers, judges, and participants of the 
 
 ## What's Expected
 
-Rails Rumble is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
+Rails Rumble is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants, judges, or organizers in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Be careful in the words that you choose. Sexist, racist, and other exclusionary jokes can be offensive to other participants. Sexual language and imagery, excessive swearing, and offensive jokes are not appropriate for the Rails Rumble in any venue, including in application entries themselves, comments posted throughout the Rails Rumble site, and in the official #railsrumble IRC channel.
 
