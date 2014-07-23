@@ -11,10 +11,6 @@ layout: default
 
     <div class="body">
       {{ post.content }}
-
-      <p>
-        <a href="http://blog.railsrumble.com{{ post.url }}#disqus_thread">Comments</a>
-      </p>
     </div>
   </article>
 {% endfor %}
@@ -22,14 +18,3 @@ layout: default
 <div>
   Looking for older posts? Why not <a href="/archives">browse the archive</a>?
 </div>
-
-<script type="text/javascript">
-  var disqus_shortname = 'rumbleblog';
-
-  (function () {
-    var s = document.createElement('script'); s.async = true;
-    s.type = 'text/javascript';
-    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-  }());
-</script>
