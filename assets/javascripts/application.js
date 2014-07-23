@@ -48,7 +48,7 @@
       try {
         $('#sponsors h1').text(data['competition']['year'] + ' Rumble Sponsors');
 
-        if(data['competition']['current']) {
+        if(data['competition']['stage'] != 'anticipation') {
           $('#sponsorship-interest').parents('article').hide();
         }
 

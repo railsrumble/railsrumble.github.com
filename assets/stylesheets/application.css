@@ -251,6 +251,11 @@ a {
   a:hover {
     text-decoration: underline; }
 
+img.rounded {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; }
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal; }
 
@@ -467,7 +472,7 @@ article .body .footnotes {
   *line-height: 16px;
   text-transform: uppercase;
   vertical-align: middle;
-  width: 120px;
+  width: 95px;
 }
 
 #sidebar #job-highlight {
@@ -516,6 +521,7 @@ article .body .footnotes {
 }
 
 #sidebar #sponsorship-interest h1 {
+  display: none;
   font-size: 18px;
   font-size: 1.8rem;
   height: 30px;
@@ -524,11 +530,12 @@ article .body .footnotes {
 }
 
 #sidebar #sponsorship-interest p {
-  font-size: 14px;
-  font-size: 1.4rem;
-  line-height: 22px;
-  line-height: 2.2rem;
-  margin: 10px 0;
+  font-size: 13px;
+  font-size: 1.3rem;
+  line-height: 18px;
+  line-height: 1.8rem;
+  margin: 5px 0;
+  text-align: center;
 }
 
 #sidebar #sponsor-highlight {
@@ -570,7 +577,7 @@ article .body .footnotes {
 }
 
 #footer {
-  color: #3d3d3d;
+  color: #8d8d8d;
   font-size: 12px;
   font-size: 1.2rem;
   margin: 60px 0 30px 0;
