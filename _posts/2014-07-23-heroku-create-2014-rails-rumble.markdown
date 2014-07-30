@@ -20,7 +20,7 @@ If you aren't familiar with Heroku, they provide services and tools that let you
 
 ## Heroku Add-Ons
 
-Many of our sponsors this year will be available during the competition, free of charge, using Heroku's ridiculously powerful [add-on system](https://addons.heroku.com/?utm_source=railsrumble&utm_medium=link&utm_campaign=2014_sponsorship).
+Many of our sponsors this year will be available during the competition, free of charge, using Heroku's ridiculously powerful [add-on system](https://addons.heroku.com/?c=70130000001x9MS).
 
 Over the coming months, we’ll be announcing even more sponsors (in addition to [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS), [GitHub](http://github.com), [Codebase](http://codebasehq.com), [Sirportly](http://sirportly.com), [Deploy](http://deployhq.com), and [Sprintly](https://sprint.ly/?utm_source=railsrumble&utm_medium=logo&utm_campaign=2014_sponsorship) - Thanks!), so if you have a product or service that’d you’d like smart, young, intelligent, thoughtful, developers and designers, from around the world to check out, [please let us know](http://railsrumble.com/sponsors/new).
 
