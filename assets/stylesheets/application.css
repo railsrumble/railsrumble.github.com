@@ -428,6 +428,11 @@ article {
   margin-bottom: 60px;
 }
 
+article .body hr {
+  border: 0;
+  border-top: 1px solid #5a5a5a;
+}
+
 article .body pre {
   background-color: #eaeaea;
   color: #333333;

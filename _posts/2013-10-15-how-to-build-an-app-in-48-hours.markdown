@@ -7,7 +7,7 @@ title: "Guest Post: How To Build an App in 48 Hours"
 
 *This year, [Darcy Laycock](https://twitter.com/sutto) of [FindThin.gs](http://findthin.gs) was kind enough to write that something for us. So gather 'round and soak in the wisdom!*
 
---
+---
 
 ## How To Build an App in 48 Hours
 
