@@ -14,59 +14,59 @@ To read our official Code of Conduct, [check here](/conduct)
 
 What follows is a quick summary of the rules. Before entering, you'll be asked to accept the full, official rules, which you can read below. If you have any questions, please feel free to email the [organizers](http://railsrumble.com/contact).
 
-0. **Ruby-Based Rack Framework Required - Ruby on Rails / Sinatra / Etc**
+**0. Ruby-Based Rack Framework Required - Ruby on Rails / Sinatra / Etc**
 
-    All applications must be built using Ruby on Rails or another Rack-based Ruby web framework. No substitutes!
+All applications must be built using Ruby on Rails or another Rack-based Ruby web framework. No substitutes!
 
-1. **48 Hours**
+**1. 48 Hours**
 
-    As a contestant, your team has exactly 48 hours to develop your web based application during the Rumble. The competition kicks off at 12:00AM UTC / 00:00 UTC on October 18th, 2014 and will end at 11:59PM / 23:59 UTC on October 19th, 2014.
+As a contestant, your team has exactly 48 hours to develop your web based application during the Rumble. The competition kicks off at 12:00AM UTC / 00:00 UTC on October 18th, 2014 and will end at 11:59PM / 23:59 UTC on October 19th, 2014.
 
-    You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and code based user stores / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine). Please post any information of this sort publicly, and make sure to list these items on your team profile page in order to prevent any questioning. Plan, don't create. And if you're in doubt, send us an email to verify.
+You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and code based user stores / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine). Please post any information of this sort publicly, and make sure to list these items on your team profile page in order to prevent any questioning. Plan, don't create. And if you're in doubt, send us an email to verify.
 
-    After the initial 48 hours are up, you'll be judged on what you've completed. No additional features or bugfixes are allowed after the 48 hours are up, or you'll be disqualified.
+After the initial 48 hours are up, you'll be judged on what you've completed. No additional features or bugfixes are allowed after the 48 hours are up, or you'll be disqualified.
 
-2. **Teams of One to Four Humans**
+**2. Teams of One to Four Humans**
 
-    Teams must be comprised of between one and four individuals. No more than four people are allowed on a team. To be eligible, teams must register during the defined registration period (space subject to availability). Additionally, every team member must have a Heroku account to register. No robots, aliens, or superheroes allowed. However, team members should feel free to dress as robots, aliens, and superheroes.
+Teams must be comprised of between one and four individuals. No more than four people are allowed on a team. To be eligible, teams must register during the defined registration period (space subject to availability). Additionally, every team member must have a Heroku account to register. No robots, aliens, or superheroes allowed. However, team members should feel free to dress as robots, aliens, and superheroes.
 
-3. **Source Control & Deployment at Heroku**
+**3. Source Control & Deployment at Heroku**
 
-    Your team will be provided with a free app and Git repository, courtesy of [Heroku](http://heroku.com) that you must use. As you develop your application, you should push your progress to the repository regularly ("commit early, commit often") in order to demonstrate progress.
+Your team will be provided with a free app and Git repository, courtesy of [Heroku](http://heroku.com) that you must use. As you develop your application, you should push your progress to the repository regularly ("commit early, commit often") in order to demonstrate progress.
 
-    Optionally, you will have access to a Git repository courtesy of [GitHub](http://github.com) that will be linked to your Heroku app where you may also push progress to.
+Optionally, you will have access to a Git repository courtesy of [GitHub](http://github.com) that will be linked to your Heroku app where you may also push progress to.
 
-    However, at the end of the competition, **your application must be deployed to Heroku** at the given app. This is what will be judged.
+However, at the end of the competition, **your application must be deployed to Heroku** at the given app. This is what will be judged.
 
-    Related to deploying at Heroku, the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
+Related to deploying at Heroku, the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
-4. **Leverage Others**
+**4. Leverage Others**
 
-    Third party software, in the form of RubyGems are allowed, even encouraged (if publicly available and allowed for the use intended by this contest). Please make sure to update your team profile once the competition has started, and list any third party libraries, plugins, or other applications make use of. Third party JavaScript libraries, Flash widgets, and other component libraries, are allowed. You must update your profile to list any external libraries that are in use and give appropriate credit and citations.
+Third party software, in the form of RubyGems are allowed, even encouraged (if publicly available and allowed for the use intended by this contest). Please make sure to update your team profile once the competition has started, and list any third party libraries, plugins, or other applications make use of. Third party JavaScript libraries, Flash widgets, and other component libraries, are allowed. You must update your profile to list any external libraries that are in use and give appropriate credit and citations.
 
-    Stock photography, icon sets, and publicly available templates are allowed. Teams are prohibited from commissioning or otherwise paying for any content that is created **specifically** for the application as opposed to being publicly available for everyone's use. Developing a plugin or library before the competition that provides your application's general functionality is considered cheating. Developing a plugin or library that is publicly available and provides a general purpose publicly usable function (such as accessing an API) can be done before the competition begins. Purchases will not improve your chances of winning. This is a skill-based contest.
+Stock photography, icon sets, and publicly available templates are allowed. Teams are prohibited from commissioning or otherwise paying for any content that is created **specifically** for the application as opposed to being publicly available for everyone's use. Developing a plugin or library before the competition that provides your application's general functionality is considered cheating. Developing a plugin or library that is publicly available and provides a general purpose publicly usable function (such as accessing an API) can be done before the competition begins. Purchases will not improve your chances of winning. This is a skill-based contest.
 
-    Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. If you'd like to use some other third party service, that service must provide a a free tier or free trial that anyone can use. For example, [Pusher](http://pusher.com) has a free tier. For transactional email, try [Mandrill by MailChimp](http://mandrill.com). As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
+Your application can make use of any non-paid and publicly available third party web services. This means that services provided by established services such as Google, Yahoo, Flickr, Twitter, etc are all possible and allowable. If you'd like to use some other third party service, that service must provide a a free tier or free trial that anyone can use. For example, [Pusher](http://pusher.com) has a free tier. For transactional email, try [Mandrill by MailChimp](http://mandrill.com). As before, make sure to update your profile to list dependencies on third party services and give credit to those services accordingly.
 
-    If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
+If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
 
-5. **Ownership & Open Source**
+**5. Ownership & Open Source**
 
-    Hey, we're just running a competition here. What you do with your source once the competition is over is up to you. Open sourcing your code will neither hurt nor improve your chances. It's up to you. Please note that competition organizers will have access to your codebase throughout the competition, in order to make sure that no cheating occurs, but we won't steal anything, we promise! We do reserve the right to use your application's likeness as a promotion for this or future contests, though.
+Hey, we're just running a competition here. What you do with your source once the competition is over is up to you. Open sourcing your code will neither hurt nor improve your chances. It's up to you. Please note that competition organizers will have access to your codebase throughout the competition, in order to make sure that no cheating occurs, but we won't steal anything, we promise! We do reserve the right to use your application's likeness as a promotion for this or future contests, though.
 
-6. **User Privacy**
+**6. User Privacy**
 
-    Because your application will be awesome, lots of people will be reviewing it and playing around with it during the competition and review period. In the interest of protecting their information, we're imposing a non-optional privacy policy for the duration of the event. You are not to reveal any user information to any third party, except when required by law. You are not to use account emails for any purpose other than the standard operation of your application. If you choose to continue developing your application after the Rumble has ended, you are required to notify users of any changes in your privacy policy, so they can remove the information if they so choose. For the duration of this competition you hereby agree to abide by the [Privacy Policy](/privacy) of the Rails Rumble competition.
+Because your application will be awesome, lots of people will be reviewing it and playing around with it during the competition and review period. In the interest of protecting their information, we're imposing a non-optional privacy policy for the duration of the event. You are not to reveal any user information to any third party, except when required by law. You are not to use account emails for any purpose other than the standard operation of your application. If you choose to continue developing your application after the Rumble has ended, you are required to notify users of any changes in your privacy policy, so they can remove the information if they so choose. For the duration of this competition you hereby agree to abide by the [Privacy Policy](/privacy) of the Rails Rumble competition.
 
-7. **You Will Be Judged**
+**7. You Will Be Judged**
 
-    A set of competitor judges (to qualify as a competitor judge, you must ship an application by the end of the competition) will pick their favorite applications and rank them. At the end of the competition, these rankings will be combined to find the top 10 overall winners, ranked 1 through 10. Additionally, a special "Best Solo" award will be given based on rankings. Judges may pick from all, non-disqualified entries.
+A set of competitor judges (to qualify as a competitor judge, you must ship an application by the end of the competition) will pick their favorite applications and rank them. At the end of the competition, these rankings will be combined to find the top 10 overall winners, ranked 1 through 10. Additionally, a special "Best Solo" award will be given based on rankings. Judges may pick from all, non-disqualified entries.
 
-    Separate from judges, any member of the public may also pick their favorite application. At the end of the competition, the application that receives the most favorites from the public will receive a special "Public Favorite" award. Public judges may pick from all, non-disqualified entries.
+Separate from judges, any member of the public may also pick their favorite application. At the end of the competition, the application that receives the most favorites from the public will receive a special "Public Favorite" award. Public judges may pick from all, non-disqualified entries.
 
-8. **You Don't Need To Sling Code To Get Involved**
+**8. You Don't Need To Sling Code To Get Involved**
 
-    You don't need to hack Ruby or Rails to participate. We encourage front end designers to get involved too! Find a team and help out with HTML, CSS, JavaScript, and graphics work. Additionally, we anticipate that only a small fraction of the people involved in this event will be on teams contributing applications. You can be a huge part of the process just by signing up for an account, and participating in the public judging once the build portion of the competition is complete.
+You don't need to hack Ruby or Rails to participate. We encourage front end designers to get involved too! Find a team and help out with HTML, CSS, JavaScript, and graphics work. Additionally, we anticipate that only a small fraction of the people involved in this event will be on teams contributing applications. You can be a huge part of the process just by signing up for an account, and participating in the public judging once the build portion of the competition is complete.
 
 --
 
