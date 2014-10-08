@@ -267,7 +267,10 @@ p + h2, hr + h2 {
   padding-top: 20px; padding-top: 2rem; }
 
 p + h3 {
-  padding-top: 20px; padding-top: 2rem; }
+  margin-bottom: 10px; padding-top: 20px; padding-top: 2rem; }
+
+h3 + p {
+  margin-top: 10px; }
 
 date {
   color: #4f4f4f; }
