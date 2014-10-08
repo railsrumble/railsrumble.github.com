@@ -9,7 +9,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 
 * 2014 Rails Rumble Championship Belt - Thanks, [Swell](https://heyswell.com)!
 * [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS) - $500 Gift Certificate to Amazon for each team member!
-* [Ruby On Rails Podcast](http://5by5.tv/rubyonrails) - Interviewed by Sean Devine on 5by5's RoR Podcast!
+* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - Interviewed by Sean Devine on 5by5's RoR Podcast!
 * [Swell](https://heyswell.com) - Free 1 year of Premium Service!
 * [GitHub](https://github.com) - Free 1 year of Gold Plan!
 * [Codebase](http://codebasehq.com/) - Free 1 Year Subscription to "Small"!
