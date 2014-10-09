@@ -40,7 +40,17 @@ However, at the end of the competition, **your application must be deployed to H
 
 Related to deploying at Heroku, the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
-**4. Leverage Others**
+**4. Building Native Apps**
+
+We ask that judges mostly consider the Ruby part of each entry and we ask that you write the most important parts of your entry in Ruby. It doesn't have to be all Ruby, but this is a Ruby competition, so please use your best judgement.
+
+We have also found that people are generally reluctant to download and install native apps during the judging period of the rumble, so take that into consideration. Additionally, not everyone uses iOS or Android or OS X. If you build a native app on a single platform, there will almost certainly be a percentage of people that are unable to try it, even if they wanted.
+
+If you do build a native app, you may be asked to provide proof of commit history and access to source code to the organizers, as your native app's code won't be deployed to Heroku.
+
+If you'd still like to build a native app, please take these details into consideration and disclose what was used to build each part of your entry in your team's entry's description, prior to the end of the competition.
+
+**5. Leverage Others**
 
 Third party software, in the form of RubyGems are allowed, even encouraged (if publicly available and allowed for the use intended by this contest). Please make sure to update your team profile once the competition has started, and list any third party libraries, plugins, or other applications make use of. Third party JavaScript libraries, Flash widgets, and other component libraries, are allowed. You must update your profile to list any external libraries that are in use and give appropriate credit and citations.
 
@@ -50,21 +60,21 @@ Your application can make use of any non-paid and publicly available third party
 
 If you have a question about a particular piece of third party software, please [contact competition organizers for clarification](http://railsrumble.com/contact).
 
-**5. Ownership & Open Source**
+**6. Ownership & Open Source**
 
 Hey, we're just running a competition here. What you do with your source once the competition is over is up to you. Open sourcing your code will neither hurt nor improve your chances. It's up to you. Please note that competition organizers will have access to your codebase throughout the competition, in order to make sure that no cheating occurs, but we won't steal anything, we promise! We do reserve the right to use your application's likeness as a promotion for this or future contests, though.
 
-**6. User Privacy**
+**7. User Privacy**
 
 Because your application will be awesome, lots of people will be reviewing it and playing around with it during the competition and review period. In the interest of protecting their information, we're imposing a non-optional privacy policy for the duration of the event. You are not to reveal any user information to any third party, except when required by law. You are not to use account emails for any purpose other than the standard operation of your application. If you choose to continue developing your application after the Rumble has ended, you are required to notify users of any changes in your privacy policy, so they can remove the information if they so choose. For the duration of this competition you hereby agree to abide by the [Privacy Policy](/privacy) of the Rails Rumble competition.
 
-**7. You Will Be Judged**
+**8. You Will Be Judged**
 
 A set of competitor judges (to qualify as a competitor judge, you must ship an application by the end of the competition) will pick their favorite applications and rank them. At the end of the competition, these rankings will be combined to find the top 10 overall winners, ranked 1 through 10. Additionally, a special "Best Solo" award will be given based on rankings. Judges may pick from all, non-disqualified entries.
 
 Separate from judges, any member of the public may also pick their favorite application. At the end of the competition, the application that receives the most favorites from the public will receive a special "Public Favorite" award. Public judges may pick from all, non-disqualified entries.
 
-**8. You Don't Need To Sling Code To Get Involved**
+**9. You Don't Need To Sling Code To Get Involved**
 
 You don't need to hack Ruby or Rails to participate. We encourage front end designers to get involved too! Find a team and help out with HTML, CSS, JavaScript, and graphics work. Additionally, we anticipate that only a small fraction of the people involved in this event will be on teams contributing applications. You can be a huge part of the process just by signing up for an account, and participating in the public judging once the build portion of the competition is complete.
 
@@ -119,6 +129,16 @@ Optionally, you will have access to a Git repository courtesy of [GitHub](http:/
 However, at the end of the competition, **your application must be deployed to Heroku** at the given app. This is what will be judged.
 
 Related to deploying at Heroku, the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
+
+### Building Native Apps
+
+We ask that judges mostly consider the Ruby part of each entry and we ask that you write the most important parts of your entry in Ruby. It doesn't have to be all Ruby, but this is a Ruby competition, so please use your best judgement.
+
+We have also found that people are generally reluctant to download and install native apps during the judging period of the rumble, so take that into consideration. Additionally, not everyone uses iOS or Android or OS X. If you build a native app on a single platform, there will almost certainly be a percentage of people that are unable to try it, even if they wanted.
+
+If you do build a native app, you may be asked to provide proof of commit history and access to source code to the organizers, as your native app's code won't be deployed to Heroku.
+
+If you'd still like to build a native app, please take these details into consideration and disclose what was used to build each part of your entry in your team's entry's description, prior to the end of the competition.
 
 ### Third Party Software
 
