@@ -436,6 +436,12 @@ article .body hr {
   border-top: 1px solid #5a5a5a;
 }
 
+article .body .image.image-bordered img {
+  border: 3px solid #161616;
+  height: auto;
+  max-width: 735px;
+}
+
 article .body pre {
   background-color: #eaeaea;
   color: #333333;
