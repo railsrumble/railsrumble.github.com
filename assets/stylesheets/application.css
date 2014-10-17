@@ -376,25 +376,43 @@ h1#not-found {
 }
 
 #top {
-  text-transform: uppercase;
   font-weight: normal;
   font-size: 12px;
   font-size: 1.2rem;
+  height: 23px;
   margin-top: 20px;
   text-align: right;
+  text-transform: uppercase;
 }
 
-#top span {
+#top #account {
+  float: left;
+}
+
+#top #dates {
+  float: right;
+}
+
+#top #dates span {
   display: inline-block;
   margin: 0 0 0 15px;
   white-space: nowrap;
   width: 185px;
 }
 
-#top span span {
+#top #dates span span {
   color: #4F4F4F;
   display: inline;
   margin-right: 5px;
+}
+
+#top #rules-conduct {
+  float: right;
+  margin-left: 55px;
+}
+
+#top #rules-conduct a {
+  color: #dedc28;
 }
 
 #header {
