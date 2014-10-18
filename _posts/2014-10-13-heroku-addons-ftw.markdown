@@ -14,6 +14,7 @@ Once the competition starts, you'll be able to install these sponsored add-ons r
 And the list is pretty incredible!
 
 * [Heroku Postgres - Hobby Basic](https://addons.heroku.com/heroku-postgresql)
+* [Heroku SSL](https://addons.heroku.com/ssl)
 * [New Relic - Hawke](https://addons.heroku.com/newrelic)
 * [Send Grid - Bronze](https://addons.heroku.com/sendgrid)
 * [Papertrail - Fixa](https://addons.heroku.com/papertrail)
