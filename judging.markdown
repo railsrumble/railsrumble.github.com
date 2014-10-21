@@ -2,13 +2,21 @@
 layout: default
 ---
 
-*The following details have been updated for the 2014 Rails Rumble.*
+# How To Judge (tl;dr)
 
-# How Entries Are Displayed
+1. Sign in at [railsrumble.com](http://railsrumble.com).
+2. [Browse through](http://railsrumble.com/entries/all) and favorite entries.
+3. [Sort your favorites](http://railsrumble.com/entries/favorites) from 1 through 10.
+4. [Finalize your picks](http://railsrumble.com/entries/favorites) to cast your votes!
+5. [There are *four* steps!](https://www.youtube.com/watch?v=o_eSwq1ewsU)
+
+# The Finer Points
+
+## How Entries Are Displayed
 
 When [browsing entries]((http://railsrumble.com/entries/all)), please note that the list **is randomized for you**. Each time you go in, you'll see the same order of entries. However, different people see different orders. Try viewing the entries list while not signed in, from a different browser.
 
-# How Points Are Calculated
+## How Points Are Calculated
 
 Starting with the 2014 Rails Rumble, every competitor that ships an app is considered a judge. The sum of every competitor judge's favorites will determine who wins the the overall 1st through 10th awards and the Best Solo award. Additionally, favorites from anyone that isn't a competitor judge (they can sign in via Heroku or Twitter once the judging period officially opens) will determine the Public Favorite award.
 
@@ -20,7 +28,7 @@ After the judging period concludes, all of the points will be summed up and the 
 
 If you competed, your team's collected points will be revealed to you privately in your team's dashboard, if you'd care to see that.
 
-# A Judging How To
+# A Complete Judging How To
 
 ## What to Look For
 
@@ -44,7 +52,7 @@ Additionally, this is a Ruby specific competition and we urge you to consider th
 1. After signing in as a competitor or public judge, click "Browse The Entries" at the top.
 2. You'll be sent to [http://railsrumble.com/entries/all](http://railsrumble.com/entries/all) and shown a list of all entries ([http://cl.ly/image/0E472X2s3V0H](http://cl.ly/image/0E472X2s3V0H)).
 
-# Marking Entries as Favorites
+## Marking Entries as Favorites
 
 1. While browsing entries, click the "Favorite" button ([http://cl.ly/image/2T423D2o1d3C](http://cl.ly/image/2T423D2o1d3C)) for every entry that you find interesting. This gives you an easy way to bookmark an entry. Your favorites aren't displayed to anyone and you can favorite as many entries as you'd like.
 2. After you're done going through the entries and picking favorites, click the "Browse The Entries" section at the top, then click the "Favorites" button to see your list of favorites.
@@ -52,7 +60,7 @@ Additionally, this is a Ruby specific competition and we urge you to consider th
 4. The top ten entries you pick are assigned points in decreasing order from #1 to #10. Your #1 pick is assigned 10 points and your #10 pick is assigned 1 point. Any entry you favorited that appears after your tenth pick won't be counted when we tally the votes.
 5. After you've ordered your top ten favorites, click the "I'm Done - Finalize My Picks" button to let us know you're done and that we can assign points and count your picks.
 
-# Tips for Browsing Entries
+## Tips for Browsing Entries
 
 * The "Browse Entries" page will continuously scroll and load more entries until the end.
 * Every time you visit the "Browse Entries" page, you'll see the entries in the same exact order. However, to keep things fair, each person visiting this page will see entries in a different order.
