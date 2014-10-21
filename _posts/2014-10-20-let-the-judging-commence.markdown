@@ -7,7 +7,7 @@ The judging portion of the 2014 Rails Rumble has officially started! **Remember*
 
 When you're done finding the ones you like the best, go to your [favorites section](http://railsrumble.com/entries/favorites) and get it down to your top ten, put them in order, and **click the finalize button to lock in your picks**!
 
-After you and the other competitors pick their favorites this week, winners will be announced on October 27th. Additionally, your team's accumulated points will be displayed privately to you in your team's dashboard, if you're interested in seeing that.
+After you and the other competitors pick their favorites this week, winners will be announced on October 27th. Additionally, after the winners are announced, your team's accumulated points will be displayed privately to you in your team's dashboard, if you're interested in seeing that.
 
 If you want more details about how entries are sorted, how judging works, what kinds of things to look for, and how points for awards are calculated, [please check out this very detailed page we put together](http://blog.railsrumble.com/judging).
 
