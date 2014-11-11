@@ -46,6 +46,7 @@
     },
     renderSponsors: function(data) {
       try {
+        $('#sponsors').hide();
         $('#sponsors h1').text(data['competition']['year'] + ' Rumble Sponsors');
 
         if(data['competition']['stage'] != 'anticipation') {
