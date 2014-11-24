@@ -16,7 +16,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $250 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -33,7 +33,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $250 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -50,7 +50,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $250 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -67,7 +67,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -84,7 +84,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -100,7 +100,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -116,7 +116,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -132,7 +132,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -148,7 +148,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -164,7 +164,7 @@ On **October 6th, at 00:00:00 UTC**, registration opens for the 2014 Rails Rumbl
 * [Sirportly](http://sirportly.com/) - Free 6 month 4 User subscription to "Plus"!
 * [Deploy](http://deployhq.com/) - Free 1 Year Subscription to "Basic"!
 * [Blitline](http://blitline.com/) - $100 Credit!
-* [Twilio](http://twilio.com/) - $133.70 Credit Per Member!
+* [Twilio](http://twilio.com/) - $50 Credit Per Member!
 * [AgileBits](http://www.agilebits.com/) - A Free License For Desktop 1Password!
 * [Sprintly](https://sprint.ly/) - 1 Year Free!
 * [Code School](https://www.codeschool.com/) - 48 Hours Free!
@@ -190,5 +190,7 @@ In addition to the top ten winners above, we have two special, bonus awards.
 Even if you don't place or get one the special awards, a number of our sponsors have been generous enough to provide coupons for their services. For more about how to redeem those coupons, visit your team's dashboard near the end of the competition.
 
 Thanks very much to our sponsors and good luck to everyone!
+
+*Update: Unfortunately, Twilio's prize amount was listed incorrectly. We regret the error.*
 
 \- [@tsmango](https://twitter.com/tsmango)
