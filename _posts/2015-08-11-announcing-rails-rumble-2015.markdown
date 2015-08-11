@@ -7,7 +7,7 @@ title: "Announcing Rails Rumble 2015!"
   <img class="rounded" src="/assets/images/heroku-plus-railsrumble.png"/>
 </p>
 
-After last year's huge success, we're extremely happy to welcome back the one and only [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS) to this year's Rails Rumble!
+After the success of last year's Rails Rumble, we're extremely happy to welcome back the one and only [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS)!
 
 The 2015 Rails Rumble will take place on the weekend of **November 7th & 8th**.
 
