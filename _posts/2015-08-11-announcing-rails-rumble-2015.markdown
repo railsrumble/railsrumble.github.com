@@ -16,7 +16,7 @@ The 2015 Rails Rumble will take place on the weekend of **November 7th & 8th**.
 
 ## Ruby++
 
-Every year we get questions about using other technologies, in addition to Ruby, in your entry, so we just wanted to take a brief moment and expand on this. Despite our name, the Rails Rumble is a hackathon for apps built, at least partially, with Ruby. You may be using Rails, Sinatra, or another Rack-based Ruby web framework. You may even build the entire backend API of your app with Rails and your frontend with Ember.js, Backbone.js, or AngularJS! Either way, we don't discriminate!
+Every year we get questions about using other technologies, in addition to Ruby, in your entry, so we just wanted to take a brief moment and expand on this. Despite our name, the Rails Rumble is a hackathon for apps built, at least partially, with Ruby. You may be using Rails, Sinatra, or another Rack-based Ruby web framework for both the front and backend. On the other hand, you may build the entire backend API of your app with Rails, and your frontend with Ember.js, Backbone.js, or AngularJS! Either way, we don't discriminate!
 
 ## Heroku
 
