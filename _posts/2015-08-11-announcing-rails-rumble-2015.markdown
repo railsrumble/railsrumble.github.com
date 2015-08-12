@@ -24,7 +24,7 @@ If you aren't familiar with Heroku, they provide services and tools that let you
 
 ## Heroku Add-Ons & Sponsors
 
-After hearing from so many competitors about how they loved the ease of integrated Heroku add-ons last year, many of our sponsors again this year will be available during the competition, free of charge, using Heroku's ridiculously powerful [add-on system](https://addons.heroku.com/?c=70130000001x9MS).
+After hearing from so many competitors about how they loved the ease of integrated Heroku add-ons last year, many of our sponsors again this year will be available during the competition, free of charge, using Heroku's ridiculously powerful [add-on system](https://elements.heroku.com/addons?c=70130000001x9MS).
 
 Over the coming months, we'll be announcing even more sponsors, in addition to [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS), so if you have a product or service that'd you'd like smart, young, intelligent, thoughtful, developers and designers, from around the world to check out, [please let us know](http://railsrumble.com/sponsors/new).
 
