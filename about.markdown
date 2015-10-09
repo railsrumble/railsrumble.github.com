@@ -106,7 +106,7 @@ Significant support is also donated by our infrastructure partners at [Heroku](h
 
 The primary source for up-to-date Rails Rumble information is [the blog](http://blog.railsrumble.com). Make sure to subscribe the [feed](http://blog.railsrumble.com/atom.xml).
 
-You can also [follow @railsrumble on Twitter](http://twitter.com/railsrumble) or [visit #railsrumble on the freenode IRC network](http://webchat.freenode.net?channels=railsrumble), which tends to be a gathering place for developers interested in the Rumble. It's a great place to find potential teammates and most of the contest organizers also regularly idle in there.
+You can also [follow @railsrumble on Twitter](http://twitter.com/railsrumble) and [visit the #rails-rumble Slackline channel](https://slackline.io/shared_channels/rails-rumble), which tends to be a gathering place for developers interested in the Rumble. It's a great place to find potential teammates and most of the contest organizers also regularly idle in there.
 
 ### My company or organization would like to sponsor the event. How can I do that?
 

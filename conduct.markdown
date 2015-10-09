@@ -14,7 +14,7 @@ To make clear what is expected, all organizers, judges, and participants of the 
 
 Rails Rumble is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants, judges, or organizers in any form.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Be careful in the words that you choose. Sexist, racist, and other exclusionary jokes can be offensive to other participants. Sexual language and imagery, excessive swearing, and offensive jokes are not appropriate for the Rails Rumble in any venue, including in application entries themselves, comments posted throughout the Rails Rumble site, and in the official #railsrumble IRC channel.
+All communication should be appropriate for a professional audience including people of many different backgrounds. Be careful in the words that you choose. Sexist, racist, and other exclusionary jokes can be offensive to other participants. Sexual language and imagery, excessive swearing, and offensive jokes are not appropriate for the Rails Rumble in any venue, including in application entries themselves, comments posted throughout the Rails Rumble site, and in the official [#rails-rumble](https://slackline.io/shared_channels/rails-rumble) Slackline channel.
 
 Be kind to others. Do not insult or put down other participants. Behave professionally.
 
@@ -24,7 +24,7 @@ Thank you for helping make this a welcoming, friendly event for all.
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please send an email to [support@railsrumble.com](mailto:support@railsrumble.com) or contact **tsmango** on Twitter or IRC.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please send an email to [support@railsrumble.com](mailto:support@railsrumble.com) or contact **tsmango** on Twitter or in the [#rails-rumble](https://slackline.io/shared_channels/rails-rumble) Slackline.
 
 ## License
 
