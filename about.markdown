@@ -26,11 +26,11 @@ There are **10 Overall Winners**, ranked 1 through 10, picked by the judges. Add
 
 ### When does the competition start?
 
-The 2014 Rails Rumble will begin Saturday, October 18th at 00:00:00 UTC (midnight) and continue for the next 48 hours, until Sunday, October 19th at 23:59:59 UTC.
+The 2015 Rails Rumble will begin Saturday, November 7th at 00:00:00 UTC (midnight) and continue for the next 48 hours, until Sunday, November 8th at 23:59:59 UTC.
 
 ### When does registration open?
 
-Registration for the 2014 Rails Rumble will be opened on October 6th and will close on October 12th. We'll open up as many spots as possible, but there will be limited space. Remember &mdash; first come first serve.
+Registration for the 2015 Rails Rumble will be opened on October 26th and will close on November 4th. We'll open up as many spots as possible, but there will be limited space. Remember &mdash; first come first serve.
 
 ### Where is the competition held?
 
