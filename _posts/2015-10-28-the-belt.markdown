@@ -1,0 +1,40 @@
+---
+layout: post
+title: "The Belt."
+---
+
+Beyond money, beyond notoriety, beyond all the free service prizes, there's one thing that every single person that competes in the Rails Rumble, wants more than anything.
+
+The Belt.
+
+It's all about The Belt! This year, our belt sponsor is the one and only [Twilio](http://www.twilio.com/). They've been sponsoring us for years now and we're really happy to highlight their service here for you.
+
+### What is Twilio?
+
+If you don't know what Twilio is, we can explain it very simply. They are the telcom API champion! Developers use Twilio to build complex communication systems. But they're also easy enough to use on a whim, to build small apps. They're the perfect service for the Rumble. For instance, 2 years ago Caller Key won the Rumble, and they used Twilio.
+
+### What do I do with The Belt when I win?
+
+Pfft, you mean *if* you win. [Stakes is High!](https://www.youtube.com/watch?v=JMoHezlA0a0) Well, *if* you win, you could wear The Belt at your desk, and show people what's up.
+
+<div class="image image-bordered">
+  <img src="http://misc.railsrumble.com.s3.amazonaws.com/assets/images/belt-at-desk.jpg"/>
+</div>
+
+You could also just sit it on your work fridge, and show people what's up.
+
+<div class="image image-bordered">
+  <img src="http://misc.railsrumble.com.s3.amazonaws.com/assets/images/belt-on-fridge.jpeg"/>
+</div>
+
+### Wait, I thought I heard about Gloves last year?
+
+That's right! Starting two years back, the solo winners also got a pair of sweet, sweet boxing gloves!
+
+<div class="image image-bordered">
+  <img src="http://misc.railsrumble.com.s3.amazonaws.com/assets/images/gloves-on-desk.jpeg"/>
+</div>
+
+Again, big thanks to [Twilio](http://www.twilio.com/) for sponsoring this year's belt and gloves!
+
+\- [@Alternate1985](https://twitter.com/Alternate1985)
