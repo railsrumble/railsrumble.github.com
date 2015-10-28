@@ -7,7 +7,7 @@ On **October 26th, at 00:00:00 UTC**, registration opens for the 2015 Rails Rumb
 
 ### 1st Place
 
-* 2015 Rails Rumble Championship Belt
+* 2015 Rails Rumble Championship Belt - Thanks, [Twilio](http://twilio.com/)!
 * [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS) - $500 Gift Certificate to Amazon for each team member!
 * [GitHub](https://github.com) - Free 1 year of Gold Plan!
 * [Slackline](https://slackline.io/?utm_source=railsrumble&utm_medium=link&utm_campaign=railsrumble2015) - Free 6 Months Medium Plan!
@@ -149,7 +149,7 @@ In addition to the top ten winners above, we have two special, bonus awards.
 
 ### Best Solo
 
-* 2015 Rails Rumble Custom Boxing Gloves
+* 2015 Rails Rumble Custom Boxing Gloves - Thanks, [Twilio](http://twilio.com/)!
 * $500 Amazon Gift Certificate - Thanks, [Heroku](https://signup.heroku.com/ruby?c=70130000001x9MS)!
 
 ### Public Favorite
