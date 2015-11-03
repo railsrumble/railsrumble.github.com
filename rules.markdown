@@ -20,7 +20,7 @@ All applications must be built using Ruby on Rails or another Rack-based Ruby we
 
 **1. 48 Hours**
 
-As a contestant, your team has exactly 48 hours to develop your web based application during the Rumble. The competition kicks off at 12:00AM UTC / 00:00 UTC on October 18th, 2014 and will end at 11:59PM / 23:59 UTC on October 19th, 2014.
+As a contestant, your team has exactly 48 hours to develop your web based application during the Rumble. The competition kicks off at 12:00AM UTC / 00:00 UTC on November 7th, 2015 and will end at 11:59PM / 23:59 UTC on November 8th, 2015.
 
 You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and code based user stores / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine). Please post any information of this sort publicly, and make sure to list these items on your team profile page in order to prevent any questioning. Plan, don't create. And if you're in doubt, send us an email to verify.
 
@@ -38,7 +38,7 @@ Optionally, you will have access to a Git repository courtesy of [GitHub](http:/
 
 However, at the end of the competition, **your application must be deployed to Heroku** at the given app. This is what will be judged.
 
-Related to deploying at Heroku, the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
+Related to deploying at Heroku, the \*.r15.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
 **4. Building Native Apps**
 
@@ -82,7 +82,7 @@ You don't need to hack Ruby or Rails to participate. We encourage front end desi
 
 #### Rails Rumble, LLC
 
-# Official Contest Rules - 2014 Rails Rumble
+# Official Contest Rules - 2015 Rails Rumble
 
 The Rails Rumble is a Skill-based contest where developers can show off their Ruby on Rails development skills in accordance with the guidelines below.  Winners are chosen based on merit.
 
@@ -112,9 +112,9 @@ All applications must be built using [Ruby on Rails](http://rubyonrails.org) or 
 
 ### 48 Hours
 
-As a contestant, your team has exactly 48 hours to develop your web based application during the event. The competition kicks off at 12:00am / 00:00 UTC on October 18th, 2014 and will end at 11:59PM / 23:59 UTC on October 19th, 2014 ("Contest timeframe"). You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and executable user stories / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine).
+As a contestant, your team has exactly 48 hours to develop your web based application during the event. The competition kicks off at 12:00am / 00:00 UTC on November 7th, 2015 and will end at 11:59PM / 23:59 UTC on November 8th, 2015 ("Contest timeframe"). You can, of course, work on the concept for your application before the competition starts, including paper and / or digital mockups of the user interface and database entity diagrams. However, no production assets of any kind can be created until the start of the official competition period illustrated above. This includes "ready to slice" graphic design assets, application code, and executable user stories / test cases (on the other hand, [Sprint.ly](http://sprint.ly) & [Pivotal Tracker](http://pivotaltracker.com) type stories are fine).
 
-After those 48 hours are completed at 11:59PM / 23:59 UTC on October 19th, 2014, an set of qualifying competitor judges (to qualify, you must be a competitor that successfully ships an app) will be invited to use your application and judge it against the competition in the manner described below. No additional features or bug fixes are allowed during this period, or you will be disqualified. For full instructions on how to participate and contest requirements, see below.
+After those 48 hours are completed at 11:59PM / 23:59 UTC on November 8th, 2015, an set of qualifying competitor judges (to qualify, you must be a competitor that successfully ships an app) will be invited to use your application and judge it against the competition in the manner described below. No additional features or bug fixes are allowed during this period, or you will be disqualified. For full instructions on how to participate and contest requirements, see below.
 
 ### Teams
 
@@ -128,7 +128,7 @@ Optionally, you will have access to a Git repository courtesy of [GitHub](http:/
 
 However, at the end of the competition, **your application must be deployed to Heroku** at the given app. This is what will be judged.
 
-Related to deploying at Heroku, the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
+Related to deploying at Heroku, the \*.r15.railsrumble.com subdomained URLs we provide are the **official URLs** judges will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
 ### Building Native Apps
 
@@ -170,7 +170,7 @@ There are limited spots available. Each team will submit a single entry. Spots a
 
 Judging, will occur after the build portion of the competition is completed. Both qualifying competitor judges and public judges will pick their favorite entries and rank them, at the same time. Competitor judge rankings will result in the top ten overall winners. Public judges will result in a single "Public Favorite" award.
 
-The judging period will take place from October 20th, 2014 until October 24th, 2014.
+The judging period will take place from November 9th, 2015 until November 15th, 2015.
 
 All judging will occur from the perspective of an average consumer / Internet end user. Meaning, code quality will not be judged. We believe code quality to be a highly subjective affair, and thorough reviews are extremely time-intensive and not in the best interests of this competition. Your application will be judged based on it's visible merits. In particular, we ask judges to consider a number of aspects including: originality, usefulness, appearance, and completeness. However, these categories are not individually rated.
 
@@ -178,7 +178,7 @@ Each judge (both peer and public judges) will choose their favorite entries and 
 
 At the conclusion of the judging period, an overall top ten ranking (places 1 through 10), solely based on combined rankings from all competitor judges, will be revealed as the winners.
 
-Public judges are members of the general public that have registered with Rails Rumble to participate in judging. Public judging will also occur from October 20th, 2014 until October 24th, 2014. These public judges will award a single "Public Favorite" award.
+Public judges are members of the general public that have registered with Rails Rumble to participate in judging. Public judging will also occur from November 9th, 2015 until November 15th, 2015. These public judges will award a single "Public Favorite" award.
 
 Further, a "Solo" award will be given to the team with a single member that has the highest competitor judged rank.
 
@@ -206,7 +206,7 @@ The available prizes from our sponsors is subject to change, so check back often
 
 All Federal, State and local taxes related to any prize are the responsibility of the individual winners.
 
-The Winners of each prize above will be notified on October 27th, 2014. Each team will be contacted via their Rails Rumble account within one week of announcing the winners, concerning each award and the information required for retrieving the awards from the sponsors. All awards will be made available to the winners within three (3) months of October 27th, 2014 (subject to prize and sponsor restrictions).
+The Winners of each prize above will be notified on November 16th, 2015. Each team will be contacted via their Rails Rumble account within one week of announcing the winners, concerning each award and the information required for retrieving the awards from the sponsors. All awards will be made available to the winners within three (3) months of November 16th, 2015 (subject to prize and sponsor restrictions).
 
 ### Current Sponsors
 
@@ -218,7 +218,7 @@ If at any time you would like to be removed from the email list or have your acc
 
 ### Winners List
 
-For a list of the winners, please visit railsrumble.com. Such a list will be available after October 27th, 2014.
+For a list of the winners, please visit railsrumble.com. Such a list will be available after November 16th, 2015.
 
 ### Administrator
 

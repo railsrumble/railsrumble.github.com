@@ -74,7 +74,7 @@ You'll receive access to both once the competition starts.
 
 ### Can I use my own custom domain?
 
-You can, if you want, but it isn't required that's for sure. We'll provide every entry with a domain, something like your-app.r14.railsrumble.com. Also, please note that the \*.r14.railsrumble.com subdomained URLs we provide are the **official URLs** everyone will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
+You can, if you want, but it isn't required that's for sure. We'll provide every entry with a domain, something like your-app.r15.railsrumble.com. Also, please note that the \*.r15.railsrumble.com subdomained URLs we provide are the **official URLs** everyone will be sent to. If you have a custom domain, you **must still support requests coming into the subdomain URL we provide**.
 
 ### Does my application need to be open source?
 
