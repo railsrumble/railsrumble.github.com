@@ -3,10 +3,12 @@
 
   RailsRumble = {
     initialize: function() {
+      console.log('initialize');
       RailsRumble.fetchJobs();
       RailsRumble.fetchSponsors();
     },
     fetchJobs: function() {
+      console.log("fetchJobs");
       $.ajax({
         url: 'http://railsrumble.com/jobs.json',
         data: {},
@@ -14,11 +16,12 @@
         jsonp: 'callback',
         jsonpCallback: 'RailsRumble.renderJobs',
         success: function(){
-          alert("success");
+          console.log("fetchJobs:success");
         }
       });
     },
     renderJobs: function(data) {
+      console.log("renderJobs");
       try {
         if(data['jobs'].length > 0) {
           var job        = data['jobs'][_.random(data['jobs'].length - 1)];
@@ -33,6 +36,7 @@
       }catch(a){}
     },
     fetchSponsors: function() {
+      console.log("fetchSponsors");
       $.ajax({
         url: 'http://railsrumble.com/sponsors.json',
         data: {},
@@ -40,13 +44,13 @@
         jsonp: 'callback',
         jsonpCallback: 'RailsRumble.renderSponsors',
         success: function(){
-          alert("success");
+          console.log("fetchSponsors:success");
         }
       });
     },
     renderSponsors: function(data) {
+      console.log("renderSponsors");
       try {
-        $('#sponsors').hide();
         $('#sponsors h1').text(data['competition']['year'] + ' Rumble Sponsors');
 
         if(data['competition']['stage'] != 'anticipation') {
