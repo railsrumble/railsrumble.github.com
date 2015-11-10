@@ -18,9 +18,9 @@ When [browsing entries]((http://railsrumble.com/entries/all)), please note that 
 
 ## How Points Are Calculated
 
-Starting with the 2014 Rails Rumble, every competitor that ships an app is considered a judge. The sum of every competitor judge's favorites will determine who wins the the overall 1st through 10th awards and the Best Solo award. Additionally, favorites from anyone that isn't a competitor judge (they can sign in via Heroku or Twitter once the judging period officially opens) will determine the Public Favorite award.
+Every competitor that ships an app is considered a judge. The sum of every competitor judge's favorites will determine who wins the the overall 1st through 10th awards and the Best Solo award. Additionally, favorites from anyone that isn't a competitor judge (they can sign in via Heroku or Twitter once the judging period officially opens) will determine the Public Favorite award.
 
-You can see prizes for the 2014 Rails Rumble [in this blog post](http://blog.railsrumble.com/2014/10/03/prizes-prizes-prizes/).
+You can see prizes for the 2015 Rails Rumble [in this blog post](http://blog.railsrumble.com/2015/10/23/prizes-have-landed/).
 
 No matter who you are, you can have up to ten favorite entires that count for points. So, as you [browse and visit entries](http://railsrumble.com/entries/all), favorite the ones you like. When you're done, go to [your favorites list](http://railsrumble.com/entries/favorites) and reorder your top ten. **After you finalize the picks** on [your favorites list](http://railsrumble.com/entries/favorites), your points will be locked in. Your #1 favorite counts for 10 points. Your #2 favorite counts for 9 points. This continues all the way down your #10 favorite, which counts for 1 point. No other favorites count towards awards.
 
