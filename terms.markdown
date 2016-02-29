@@ -8,7 +8,7 @@ layout: default
 
 ### The Big Picture
 
-Rails Rumble, LLC ("Rails Rumble") operates the Rails Rumble competition and affiliated services. This Terms of Use ("Terms") sets forth the conditions and terms under which users may access and use our resources and tools ("Services").  To become a user ("User" and collectively, "Users"), you must read and accept all of the conditions and terms set forth in the Terms.  If you do not agree to be bound by the conditions and terms of the Terms, you may not use or access the Services offered by this Site.  Rails Rumble reserves the right to refuse or cancel Services without prior notice to any User for any or no reason.
+Rumble Technologies, LLC ("Rails Rumble") operates the Rails Rumble competition and affiliated services. This Terms of Use ("Terms") sets forth the conditions and terms under which users may access and use our resources and tools ("Services").  To become a user ("User" and collectively, "Users"), you must read and accept all of the conditions and terms set forth in the Terms.  If you do not agree to be bound by the conditions and terms of the Terms, you may not use or access the Services offered by this Site.  Rails Rumble reserves the right to refuse or cancel Services without prior notice to any User for any or no reason.
 
 There is no charge to participate in the Rails Rumble, either as a participant, judge, or end user. You own any content or source code that you provide to the Service and are solely responsible for keeping it safe.
 
@@ -26,9 +26,9 @@ This document is an adaptation of the [Heroku Terms of Service](http://legal.her
 
 You're welcome to adapt and use this document for your own needs.  If you make an improvement, we'd appreciate it if you would [let us know](http://railsrumble.com/contact) so we can consider improving our own document.
 
-### Your Agreement with Rails Rumble and Rails Rumble, LLC
+### Your Agreement with Rails Rumble and Rumble Technologies, LLC
 
-"Rails Rumble" or the "Service" means the Rails Rumble innovation competition and any affiliated services. Such services may include our blog, our API, and any other software, sites, and affiliated web services operated by Rails Rumble, LLC
+"Rails Rumble" or the "Service" means the Rails Rumble innovation competition and any affiliated services. Such services may include our blog, our API, and any other software, sites, and affiliated web services operated by Rumble Technologies, LLC
 
 "Customer Content" means any site access information, source code, or other content you submit to Rails Rumble for the purpose of using the Service.
 
@@ -138,7 +138,7 @@ Rails Rumble shall not be liable for failing or delaying performance of its obli
 
 ### Intellectual Property Infringement &amp; Unlawful Conduct
 
-To notify Rails Rumble of infringing or unlawful content, please provide the Copyright Agent or General Counsel of Rails Rumble, LLC with the following information:
+To notify Rails Rumble of infringing or unlawful content, please provide the Copyright Agent or General Counsel of Rumble Technologies, LLC with the following information:
 
 * Your name, address, telephone number and e-mail address;
 * A description of the exact location on the website or Rails Rumble entry of the infringing or unlawful content;
@@ -149,4 +149,4 @@ To notify Rails Rumble of infringing or unlawful content, please provide the Cop
 
 Rails Rumble takes such notices very seriously.  We will evaluate the provided notice and, if appropriate based on our sole discretion, remove the content or disable access to the content. Based on our judgment, we may notify the source of the Content of your complaint and our actions in response to your complaint.  We reserve the right in our sole discretion to restore such Content, if the source of such Content provides evidence that the Content should not have been removed.  We encourage you to seek the advice of an independent attorney before filing an intellectual property notice or responding to a notice filed by another User.
 
-Rails Rumble, LLC's Copyright Agent may be notified of claims of intellectual property infringement by sending the above listed information to organizers@railsrumble.com or by mail to P.O. Box 823, Manorville, NY 11949, Copyright Agent, Rails Rumble, LLC
+Rumble Technologies, LLC's Copyright Agent may be notified of claims of intellectual property infringement by sending the above listed information to organizers@railsrumble.com or by mail to P.O. Box 823, Manorville, NY 11949, Copyright Agent, Rumble Technologies, LLC

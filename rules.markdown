@@ -80,7 +80,7 @@ You don't need to hack Ruby or Rails to participate. We encourage front end desi
 
 --
 
-#### Rails Rumble, LLC
+#### Rumble Technologies, LLC
 
 # Official Contest Rules - 2015 Rails Rumble
 
@@ -92,7 +92,7 @@ A purchase will **NOT** increase your chance of winning.
 
 ### ELIGIBILITY
 
-Open to all participants, age thirteen (13) or above, no matter where located, except those jurisdictions in which such skill-based contest is prohibited. Void where prohibited by law. Employees of Rails Rumble, LLC or any contest organizer, their affiliates, subsidiaries, advertising and promotion agencies, or any other suppliers to Rails Rumble, LLC are not eligible to participate. All federal, state and local laws and regulations apply. A purchase will NOT increase your chance of winning.
+Open to all participants, age thirteen (13) or above, no matter where located, except those jurisdictions in which such skill-based contest is prohibited. Void where prohibited by law. Employees of Rumble Technologies, LLC or any contest organizer, their affiliates, subsidiaries, advertising and promotion agencies, or any other suppliers to Rumble Technologies, LLC are not eligible to participate. All federal, state and local laws and regulations apply. A purchase will NOT increase your chance of winning.
 
 ### HOW TO ENTER
 
@@ -222,7 +222,7 @@ For a list of the winners, please visit railsrumble.com. Such a list will be ava
 
 ### Administrator
 
-The Administrator of this contest is Rails Rumble, LLC - P.O. Box 823, Manorville, NY 11949.
+The Administrator of this contest is Rumble Technologies, LLC - P.O. Box 823, Manorville, NY 11949.
 
 ### Disclaimer
 
