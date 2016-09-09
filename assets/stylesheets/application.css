@@ -357,8 +357,7 @@ article header {
     margin-bottom: 0.5rem; }
 
 #sidebar {
-  /*margin-top: 80px;
-  margin-top: 8rem;*/ }
+  display: none !important; }
   #sidebar h1 {
     font-size: 18px;
     font-size: 1.8rem; }
