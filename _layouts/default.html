@@ -34,33 +34,23 @@
   <![endif]-->
 </head>
 <body>
-  <div id="top">
-    <div class="wrapper"></div>
+  <div id="top" class="fast-forward clearfix">
+    <div>
+      <span>Big News, Rails Rumble is now <a href="http://rubyrampage.com">Ruby Rampage</a>!</span>
+    </div>
   </div>
 
   <header id="header" class="clearfix">
     <div class="wrapper">
       <div class="t1 da1-da2">
         <a href="http://rubyrampage.com" title="Rails Rumble">
-          <img src="/assets/images/rr-logo-small.png"/>
+          <img src="/assets/images/rr-logo-small.png"/> <sup>2015</sup>
         </a>
       </div>
 
       <nav class="t2-t5 da3-da6">
-        <a href="/" class="t2 da3">
-          Browse the <span class="noun">Entries</span>
-        </a>
-
-        <a href="/" class="t3 da4">
-          Meet the <span class="noun">People</span>
-        </a>
-
-        <a href="/" class="t4 da5 {% if page.url == '/' or page.date %}active{% endif %}">
+        <a href="/" class="t4 da6 {% if page.url == '/' or page.date %}active{% endif %}">
           Read the <span class="noun">Blog</span>
-        </a>
-
-        <a href="/" class="t5 da6">
-          Explore the <span class="noun">Job Board</span>
         </a>
       </nav>
     </div>
@@ -124,10 +114,10 @@
   <footer id="footer" class="clearfix">
     <div class="wrapper">
       <nav>
-        <a href="http://rubyrampage.com">We're now Ruby Rampage!</a>
+        Powered by <a href="http://rumblex.com">RumbleX</a>
       </nav>
 
-      &copy; 2016 - Powered by <a href="http://rumblex.com">RumbleX</a>
+      &copy; 2016
     </div>
   </footer>
 

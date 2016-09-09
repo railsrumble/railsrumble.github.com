@@ -384,34 +384,28 @@ h1#not-found {
   text-transform: uppercase;
 }
 
-#top #account {
-  float: left;
+#top.fast-forward {
+  background-color: #ffffff;
+  font-size: 16px;
+  font-size: 1.6rem;
+  height: 36px;
+  margin-top: 0;
+  padding-top: 30px;
+  padding-bottom: 10px;
 }
 
-#top #dates {
-  float: right;
+#top.fast-forward div {
+  color: #1a1a1a;
+  text-align: center;
 }
 
-#top #dates span {
-  display: inline-block;
-  margin: 0 0 0 15px;
-  white-space: nowrap;
-  width: 185px;
+#top.fast-forward div span {
+  margin-right: 10px;
 }
 
-#top #dates span span {
-  color: #4F4F4F;
-  display: inline;
-  margin-right: 5px;
-}
-
-#top #rules-conduct {
-  float: right;
-  margin-left: 55px;
-}
-
-#top #rules-conduct a {
-  color: #dedc28;
+#top.fast-forward div span + span {
+  margin-left: 10px;
+  margin-right: 0;
 }
 
 #header {
@@ -442,6 +436,10 @@ h1#not-found {
 
 #header nav a.active {
   color: #dedc28;
+}
+
+#top.fast-forward + #header {
+  margin-top: 0;
 }
 
 article {
